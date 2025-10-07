@@ -1,0 +1,869 @@
+sentence_id	sentence	locale	reason
+06634008b2260c829a7cbb941a8b19205e8b951be07e099c0152e57e188c0741	Бүтән көндәге кеүек беҙҙең менән уйнаманы ла.	ba	difficult-pronounce
+05d87039a5993c14bd8e2fa4d666949f4830e45efda83b6f75c875aae01f970d	Беренсенән, санэпидстанция ундай аҙыҡты ашатырға ҡушмай.	ba	?????  ??????  ?????
+0aa15870227b2cc66b450d5cd0c73c20b48c7ee46fc426c323a5fab8448092ef	Тегеһе ике- мәнеп торманы, һаҡлыҡ менән генә Бибинурҙы ҡосаҡлап алды	ba	grammar-or-spelling
+049136cb04519c3927bcb5946a38ac7715fc6b5ec1426bce6b295feb795b56be	Икеләнеп ҡалғдн Арынбаҫаров нишләргә лә белмәне	ba	grammar-or-spelling
+14ed3feeefa6b533e3b37a14d8d3139a7b4a076d07f59d340c9961a5e04660ac	Суртан барыбыҙға ла етәсәк.	ba	offensive-language
+14b35f55399968ff344d2d71b2e4b721521c1c73a37b788b1b739b2647f6a263	Былай ҙа билһеҙ кеше, ауырый­ һың да	ba	grammar-or-spelling
+1232e18b10391da36e1659f47fc74bb3d73809a47bd0262bde0a6a8687a7a749	Өйҙә имен бер нимә лә ҡалмаған.	ba	grammar-or-spelling
+079e097872a6490633781dc11d62c7569b7084b8f34a147134dfab66c9d05e4f	Күҙҙәре нисектер төҫһөҙләнеп киткәйне	ba	grammar-or-spelling
+050c99ce7935a157cc3c2a4b9a474612a84aa948908d8488c1833e1ff17efbd5	— Йә, Ильяс, һин ҡайҙа уҡырға теләйһең?	ba	grammar-or-spelling
+17de8cf9492032b5aa5ada4f566e843200d00bd1ecddf4be07f54a1bfb9b1120	Һәр кемгә икешәр ҡоймаҡ, берәр ус кәнфит эләкте.	ba	grammar-or-spelling
+079e097872a6490633781dc11d62c7569b7084b8f34a147134dfab66c9d05e4f	Күҙҙәре нисектер төҫһөҙләнеп киткәйне	ba	grammar-or-spelling
+240a2346b4f0e9dd435bbcf109dabeb373385c0433edf2e071a485e317a3e4d3	Яуап булманы.	ba	offensive-language
+2fa4db1f58f6e95e27c00c7100094dcbb59ee2ae727f94857629eb8d76552dae	Фәрит менән мәктәптән ҡайтып киләбеҙ.	ba	difficult-pronounce
+44c006d0ede33726e9338602ca48f5041e6a1c3b93e8e541e2d259343d075bb4	Әлеге дуҫтар нрҙам итте инде	ba	grammar-or-spelling
+093e6b771bfe8edbf1be5f2a170a6b7ecc59476aa06064d84821bc31a9169045	Щтлы осрашыуҙарҙы хәтергә төшөрҙө	ba	grammar-or-spelling
+3859afeb19c8f8011e4383c5d397f6dfb88964b2fdfaf80c3a8a6453279d8ea8	— Ҡ ара һин уны	ba	grammar-or-spelling
+387b6f2f0fc59890078ebec64cd8b618b41ec12991168c3154ed84db2fb4a07c	Яҡын туғаны һымаҡ ҡосаҡлап алды	ba	grammar-or-spelling
+42ebe5c0c911c713c39313565b996d7ce39bf1a599e69542e0fdce1fb385e684	Мине институтта лек- нпялар көтә	ba	grammar-or-spelling
+3cf859b0bd2ffd53117b251f693d7e4371c2f503da0f1342643a1cdbe94f141e	Күп тә үтмәне, ел-дауыл һымаҡ, бер ир килеп инде	ba	offensive-language
+3bc111e5e02596b5619ff18d18917a115e290cde06ac3e2703816449ca3d9222	Ҡағыҙ яндырғанда көслө ялҡын сәскә лә бәрелде.	ba	different-language
+493a4e337ea94df5c49bab8d63a8b6a1216962ffb0e486b4aee8de0224590c68	Әмилә лә уянды.	ba	??? ???? ????????.
+
+
+
+
+4d0a0867f7f920931c9dd8343e9f73cc0fff980c7c2270ee2dab4a7e6542d78b	— Тор­ моштоң, хәйер, минең өсөн еңел булғаны ла юҡ инде	ba	offensive-language
+4d0a0867f7f920931c9dd8343e9f73cc0fff980c7c2270ee2dab4a7e6542d78b	— Тор­ моштоң, хәйер, минең өсөн еңел булғаны ла юҡ инде	ba	different-language
+4d0a0867f7f920931c9dd8343e9f73cc0fff980c7c2270ee2dab4a7e6542d78b	— Тор­ моштоң, хәйер, минең өсөн еңел булғаны ла юҡ инде	ba	grammar-or-spelling
+4d0a0867f7f920931c9dd8343e9f73cc0fff980c7c2270ee2dab4a7e6542d78b	— Тор­ моштоң, хәйер, минең өсөн еңел булғаны ла юҡ инде	ba	difficult-pronounce
+43da3ea4179a003c4345929aa7fa17b360e8e7467266a1df929a11e34f3604aa	Залдан Яппаров, әлеге тик ултыра белмәҫ Яппаров ҡысҡырҙы:	ba	offensive-language
+43da3ea4179a003c4345929aa7fa17b360e8e7467266a1df929a11e34f3604aa	Залдан Яппаров, әлеге тик ултыра белмәҫ Яппаров ҡысҡырҙы:	ba	grammar-or-spelling
+43da3ea4179a003c4345929aa7fa17b360e8e7467266a1df929a11e34f3604aa	Залдан Яппаров, әлеге тик ултыра белмәҫ Яппаров ҡысҡырҙы:	ba	different-language
+43da3ea4179a003c4345929aa7fa17b360e8e7467266a1df929a11e34f3604aa	Залдан Яппаров, әлеге тик ултыра белмәҫ Яппаров ҡысҡырҙы:	ba	difficult-pronounce
+5119c10f1bb3a7d67420d3969cf37319fb6e3f7e3093c63fe21bb10709809930	— Вәкил иптәш, дө-рө-өҫ	ba	offensive-language
+4d9e327b2e08353b15fdb18c3b1c688a04db7a40e714fcf9cb89c5488e441597	Яубаҫаров, их Яубаҫаров	ba	grammar-or-spelling
+36ef360a16dc755453becda765cc91f61e0aaa03a5c534a361bf7b5a4b3c42dd	Артында ка- оинеты ла, ҡабул итеү бүлмәһе лә шар асыҡ ҡалды	ba	grammar-or-spelling
+093e6b771bfe8edbf1be5f2a170a6b7ecc59476aa06064d84821bc31a9169045	Щтлы осрашыуҙарҙы хәтергә төшөрҙө	ba	grammar-or-spelling
+45b5af20ccaf03477ba1fee375252ed792239bc92b87c761776500c8f5e9713a	— Ну әсе эләктерҙең дә инде, әхирәт	ba	grammar-or-spelling
+2b7f94454e01f571837759ed10c0e70e8b908f3d4deceefbd5f02838d4fb99b7	Бына алтмы­ шынсы йылдар башында партия әлкә комитеты ебәргәйне ошо яҡҡа, хәҙер аграрникҡа әйләндем	ba	grammar-or-spelling
+43a5967a26824ef2f0d30e604eb1a3de537dc29812b7cd51771e85a85d23fd59	— Мәүсиләм, Балшишмәм тип	ba	grammar-or-spelling
+64ba8293fc5df28d76fcc5c3f963c217fd770cd239704ecad573d468e095be71	Яуап биреү урынына ба- ИП	ba	grammar-or-spelling
+737c35da120817d9542c660d33da3ef89ee321e075c515e2e49fcde46ebe3b35	Бәғере ташҡан	ba	difficult-pronounce
+6a6212a354a5a69a7bbbd048078e479991855d1c563a33313710aa4867ff7b73	Нисек хәлдәр? Беҙҙең тау бой­	ba	??? ??? ?????? ??????? 
+7349dae77f2ac96bd76db3c55903fa88cc75f46476d0eab7078319483bd999f8	Көтмәгән­ дә сытырлатып-шартлатып атып бәрә	ba	grammar-or-spelling
+57a2e33d8d8f689c30608162f00583ec8f133692590fa3b84b199d507934c4b3	Буду любить тебя всегда	ba	different-language
+79068da929bbfa4676ec464eb95e5d3b0f00c8c19d318f7b0543180f2e5bbf0d	Әле ошоларҙы күҙ	ba	?????? ?????. 
+7976c31d2b6d4e6680cdf7e13b98f8e57ed99d4bddd508ae8dcbb434bfec0c79	Халыҡ хужалығын тергеҙергә кәрәк пие бит	ba	grammar-or-spelling
+64ba8293fc5df28d76fcc5c3f963c217fd770cd239704ecad573d468e095be71	Яуап биреү урынына ба- ИП	ba	grammar-or-spelling
+5e762e11e61f100f118151ccf69bda53632f2a8f319da02b36641021976b46c9	Инсафлы, саф ҡа­ раштар, ихтыяр бөркөлөп торған һөйкөмлө, саҡ ҡына ҡы- рыҫыраҡ йөҙ	ba	grammar-or-spelling
+67eb66006bbb2932bafc0119fa0db0538c8c00f3a8c971fea2da4f5567fc1643	Ҡәһәр генә һуҡһын һу- гышты	ba	grammar-or-spelling
+61a2295926a1f9c8560d5eda5be9cfa0d135689248306d86405ec4f4f13e77d3	Шунан уның ҡолағына ниҙер шыбырланы.	ba	grammar-or-spelling
+75fd965acc4d3b3b9d7ff2d8b67e1f77ecf023bbf9aa4540248ec71098694764	Ул нәмә, халыҡ дошманымы ни? — Ка­ бинет буйлап ишекле-түрле йөрөнө	ba	grammar-or-spelling
+7e7202775aa62893ac36d324c2e1026669eb177a8edc77b603b027930eb1dd31	Шунда берәй кәштәлә яталыр.	ba	offensive-language
+7e7202775aa62893ac36d324c2e1026669eb177a8edc77b603b027930eb1dd31	Шунда берәй кәштәлә яталыр.	ba	grammar-or-spelling
+5d2e929abb725b7490c531d467d6ea58abb402e60757d6d548a4a3a04620320b	Васяға ла алығыҙ	ba	different-language
+849143969363c25c42aef9e406974afb22bb029b910c44bb7e378090c72ea711	Тәүҙә ҡурҡытып кырандасты и,ша төрттөрөп үтергә булған шикелле	ba	grammar-or-spelling
+94ac23762141f9a3cb6f45976c274316c125af17edd4102fe56bd603baba072c	— Үәт түҙемһеҙ ҡуштан	ba	grammar-or-spelling
+70530cb38d6131ebb66df08f046da9174c795732956fa847a5d822ace6977683	Әлфиә лә бер аҙҙан уньщ янына килеп баҫты	ba	grammar-or-spelling
+a018ce786a2566eb3cf3db3d3bb6ec5e48fc73b4c3744916dc95da36b2b80018	Тегеһе әлегә шаярталыр тип уйлап, муйынындағы гал­ стугын бушатты	ba	difficult-pronounce
+a018ce786a2566eb3cf3db3d3bb6ec5e48fc73b4c3744916dc95da36b2b80018	Тегеһе әлегә шаярталыр тип уйлап, муйынындағы гал­ стугын бушатты	ba	grammar-or-spelling
+bbdafef650ebba0d1a6158937361afd20e999590c88e4b4642fefd38578f2dbd	Лекциялар, операциялар, тәжрибәләр	ba	difficult-pronounce
+b761007e279fe838954bb0076aed21d099d759d7087dd7029d65ab0ff590b66a	Табип ҡасауға оҡшаған әйберҙе ҡулына алды.	ba	difficult-pronounce
+9e0393dedabc1b5fd551cfa0896fa1b9ae90ee7050c86412a5ca16ae2c68adf1	Ну, теге ни, Яубаҫаров	ba	difficult-pronounce
+bc858f0b68fa403126e0dc382dd80085450c18e860064cdfc83e44a76acdd8d0	Теғе баштан Ҡотлобаев:	ba	grammar-or-spelling
+b9574bf58d01c1049c77aa5529a4202e810837b3b309f226750123b5e6ed18fc	Кемгә нисектер, әмм минең өсөн һеҙҙең кеүек етәксе башҡа булмаясаҡ	ba	grammar-or-spelling
+b51d2451a57fe5fe182eaa5ef5d0f57a9221fb1c5469bb10b277c9a5267d8767	Оморҙаҡовты стенаға һырыҡтырғанһың бит, ҡурҡып- мы, аптырапмы милицияға шылтыратырға мәжбүр булған	ba	grammar-or-spelling
+9b747d5596da1bb4ab818d4058ac60abfeda9f6138d1ed9766f4f8d1527faf31	Бына әле лә класта ғауғаның сығыуы шул иртәрәк ҡайтыу хәстәрләүенән икән тине.	ba	grammar-or-spelling
+c005f4d338fe621263be899c518eb6b130fe7edbb6881d962426db49e1290377	Нимә, атаҡлы икән, әллә, профессор алтын сығара, тип	ba	grammar-or-spelling
+b52f0487230c87635941bff8ff9392c727932cf63e5e1a854f7ab421677672e6	Әй, шәп ҡыҙ ҙа инде ошо Әмилә.	ba	different-language
+cb71041c365526f951021a3dedc3444fe04f8dd277abe00e832cf332872e935c	Артында ишек биклә-, мгнән, Вәсим биленә тиклем сисенеп ташланы	ba	grammar-or-spelling
+bad0dd8369a23be07b685dc142c319046f246d803a2d1c53042c097d33ab45de	Гөлшандың косып каһы ҡыҙыл бит	ba	grammar-or-spelling
+c673efb3131e1ee8581d1c911dc752ca73e5279da65f5e2ca6529a8bbeb3df43	Тағын ҡырҡ һум тапһаҡ, Даянға бирәбеҙ ҙә ҡотолабыҙ.	ba	grammar-or-spelling
+bad0dd8369a23be07b685dc142c319046f246d803a2d1c53042c097d33ab45de	Гөлшандың косып каһы ҡыҙыл бит	ba	grammar-or-spelling
+d9214f679111941e8fd9c4a54ca52b11cc47d3d4e32b8041064635f5a9fb8fa9	— Түҙәһең инде.	ba	grammar-or-spelling
+dc2f9906d3dd33c47fdf82806a24d01490d67df4a186726eccf7d20adc22171f	Флүрә, эштәрен бер аҙ теүәлләгәс, бик оҙаҡ асыҡ тәҙрә- н	ba	grammar-or-spelling
+e91eaf42681a59087b79dccce55f2af0db10b0a5e2ddd39e5e5171569a95bdee	Һ ин п	ba	grammar-or-spelling
+c747dfdf6bce4edad3a7c74e3e95d894c3c0d680a84d68d78bc8d9c7a73d5bcb	Типография директоры ҡасандыр больницала яғып сыҡҡан икән	ba	grammar-or-spelling
+cb71041c365526f951021a3dedc3444fe04f8dd277abe00e832cf332872e935c	Артында ишек биклә-, мгнән, Вәсим биленә тиклем сисенеп ташланы	ba	grammar-or-spelling
+e9b47aada9f620d2fe43a06b7f9b862c0df789ce72ecb2ed04a7496460186022	Нимә ҡарап тораһығыҙ, машина-аН	ba	grammar-or-spelling
+c4929ef231ab29eec85f3b8474ac425cfff8710cce3992f2e9c60f9eab8c2e42	Башҡа бер Мим	ba	grammar-or-spelling
+c4929ef231ab29eec85f3b8474ac425cfff8710cce3992f2e9c60f9eab8c2e42	Башҡа бер Мим	ba	difficult-pronounce
+ff786189fdd34603c7bb1f04c6e0a5bb89459650338d4ea9ec179dd8619c876b	Һитәһенә лә атаҡлы профессор булып бөтөргә тимәгән	ba	grammar-or-spelling
+01c89d1f2e47d6e05c2e54f29e08caf1749dc235a2ef801670a78ae20bfc1784	Үҙ алдына моңһоу М	ba	grammar-or-spelling
+01c039ee60da5f987723faf8894628cd24a649eb20b0f51cda6729799b43979f	Күр-күрҙеңме, Кәшфи, ҡартлас ми-минең пландарҙы р-раҫланы	ba	?????
+232bf4430a3a39f99b0d01053a34313a2e88ec197aa573b64377a9eff71ddcee	Ҡыҙыу бесән мәлдәре башланып китте	ba	?????????
+30f6b85526cf1d023474edddefc5dde6fe9ce55cc6a71f1a87ef57a17d712d99	Арыҫлан Рәхмәтулловичты яратып шидылар	ba	grammar-or-spelling
+3bc1258b94469b95e6ebc5ee388d5cf6ba1e81b158e2fa189a96b7fc31894298	Каҙнабаев кабинетында кеше күп түгел ине: партбюро икрстцры Сибәғәтуллина, СТК-нан Яманһаров, профсоюз	ba	grammar-or-spelling
+42ebe5c0c911c713c39313565b996d7ce39bf1a599e69542e0fdce1fb385e684	Мине институтта лек- нпялар көтә	ba	grammar-or-spelling
+f3a2ff365d0c3ec24548837c1a8c7911620db150bf4e6831019ef80aaa5685ce	Шулар рәтендә республиканың берҙән- оср ҙур больницаһының берҙән-бер баш врачы ла көтә	ba	grammar-or-spelling
+41d0ff5d6bd5f794914025407ca78a150c632dba4e0f0336910586ff0e517945	Ҡатынының панамаһын үрелеп алың алма ботағына элде	ba	grammar-or-spelling
+cb71041c365526f951021a3dedc3444fe04f8dd277abe00e832cf332872e935c	Артында ишек биклә-, мгнән, Вәсим биленә тиклем сисенеп ташланы	ba	grammar-or-spelling
+2b3141c534f8cc91159cd977a11ba535318992aba2d0b2ba488b090add6b78b6	раһимович, — Айытҡоловтың әле ризаһыҙлығы йөҙөнә сыҡ­ ҡайны инде	ba	grammar-or-spelling
+03c401f4fb0f70a00e40c5aab44733eb353bd2fa44323c8654c35ab27415a894	Уға күтә- р ни ҡарарға ерәнеп ултырған Шамратов, ирекһеҙҙән генә	ba	grammar-or-spelling
+f6037c79b6c86d945803b27723c5c1c215b5a16505ba05a810738aa02a62fe1f	Был фекер туплау өсөн мөмкинлек ипрср	ba	grammar-or-spelling
+50955ba6a436a6fa0f043cb4093e7c60090c670e9770c15c4f16ee605c49c236	Ингәс тә буш урын табайым тип йән-яҡҡа ҡараштырҙым.	ba	grammar-or-spelling
+28eec4cbba82e51c06a6b57969cebe9722f6a3195f9c2661e4d2cd5fbee47166	У лар бит минең тик ятмағанлығыма	ba	grammar-or-spelling
+4fc453f1d92af9f9415363b8883211855ee4e1f8cb07110942ec2acd7be1d0a5	Анау тапҡыр һеҙгә йыуаса алып килеүемде лә оҡшатманы.	ba	grammar-or-spelling
+093e6b771bfe8edbf1be5f2a170a6b7ecc59476aa06064d84821bc31a9169045	Щтлы осрашыуҙарҙы хәтергә төшөрҙө	ba	grammar-or-spelling
+35594323e988ef053860e215b2afc56fb91879916d949d0488c37fff1ae5fc77	Ә ысынында иһә трлө урында төрлө төркөмдәр ултырышып алған, һәр кем	ba	grammar-or-spelling
+4d0a0867f7f920931c9dd8343e9f73cc0fff980c7c2270ee2dab4a7e6542d78b	— Тор­ моштоң, хәйер, минең өсөн еңел булғаны ла юҡ инде	ba	grammar-or-spelling
+44c006d0ede33726e9338602ca48f5041e6a1c3b93e8e541e2d259343d075bb4	Әлеге дуҫтар нрҙам итте инде	ba	grammar-or-spelling
+237f6825dc8d733b3043c3ad77517d312b3d3f188c2d01592ee80f6f2ccc8aab	Ҡ аҙнабаев уға күҙенең ағы менән ҡараны	ba	grammar-or-spelling
+37b4b7b18acada9ed5ff748e3857478b13ab8d863fd7dc43a2720fcf4a00c1b5	Өфөһөнә тилграм бирә лә, әллә кем тигән урыҫ самолетҡа һалып ебәрә	ba	grammar-or-spelling
+496f42440ab83e8b59414646b37cffe5d660c34acebd883688060cb21f4c721a	Ҡәмәр егеттең артынан этге	ba	grammar-or-spelling
+510856564d5c0e20c5b176293b5ee5c148b180e559df3f1ded68382bdc707a89	Ҡал- ганы уның эше	ba	grammar-or-spelling
+40c904b95deb709dd3393aa38e35e32fbe3d33daef9a2596657ae02b570b724a	Уның уң Битенә, ҡыҙарып, ороланып торған шешкә, баянан бирле Ютибар итә ине	ba	grammar-or-spelling
+03c401f4fb0f70a00e40c5aab44733eb353bd2fa44323c8654c35ab27415a894	Уға күтә- р ни ҡарарға ерәнеп ултырған Шамратов, ирекһеҙҙән генә	ba	grammar-or-spelling
+4c3f76444de0d25999cc9a97d226612f42393010ce1f06d16ff08ce42bd82662	Былай ауыҙыңды асып троһаң, кис тә етер.	ba	grammar-or-spelling
+16ed4ca89f82203284ccb01612841d27e6a78f954daa2bec7c41ddfee0ca76e6	Тахта ситенә ултырҙы ла оҙаҡ итеп Ҡәмәргә ҡа раны	ba	grammar-or-spelling
+3f9a96114d5957db0432181e1fc03d77e53f10f8addfd5044b9238624ba15d04	Ә теге дейеү тураһындағы әкиәтегеҙ матур, бик матур, һеҙ нимә, халыҡ ижадын йылһығыҙмы?	ba	grammar-or-spelling
+56415fd5c73b75487ace0f9057ae3d2fc110392668ab4f5c31bb2a885b7b497c	Һәр хәлдә, ошо агитация барған мнии	ba	grammar-or-spelling
+557903b1e275465cc295aa3a654ab5860beb4aa782ea8edcf29b42e71138d695	Ап­ тыраҡ	ba	grammar-or-spelling
+5410af6471797695126d07e3c0854b021b59b98522e432e0f569922e1b13933b	— Бына әле генә онрттом	ba	grammar-or-spelling
+5064964a20bf40029facbe0f13889f8a3911878739abf1c9ba3804225cf2bb05	Шул тиклем көсәнгәнмен, хатта алғы тештәреп сатнап киткән.	ba	grammar-or-spelling
+1a608fd074b70e921267e82e4108291aef4dafa8b21377678d24c9941e8bae79	Ғилман ҡул һелтәгән булды, үҙе Зефәрҙе яратып ҡына булһа ла шелтәләне:	ba	grammar-or-spelling
+30f6b85526cf1d023474edddefc5dde6fe9ce55cc6a71f1a87ef57a17d712d99	Арыҫлан Рәхмәтулловичты яратып шидылар	ba	grammar-or-spelling
+52a990ede786444a180a5b1585873fc160f577a0bb75a3d8989ebf609ce45823	Фуражкаһына оҙон алып сәскә ҡыҫтырған булған	ba	grammar-or-spelling
+590534ff0b06b61c629b4dfd83ba929dc5e6c7b73c70ee69d1a442c880850a0d	Бөтәһе лә һораулы ҡараштарын Лрыибаҫаровҡа төбәне	ba	grammar-or-spelling
+3bf050d812f6d134426226761275cc1957e5466f970b11b36e5a5cfa16676f82	— Кананы тура килә	ba	grammar-or-spelling
+56123c30a5da24a0c438bbc3deb72794388e2cf42bea71b1bef4edc74c319289	Һирештеләр ҙә икеһе ике яры китеп юҡ булды	ba	grammar-or-spelling
+55c1bba460e85372d9109dab833f660d9d845e5b7f2f6939e1ad1313256c8b58	Уның ҡарауы, залда бөгөн Яппаровтан да бәхетлерәк кеше бул- магандыр	ba	grammar-or-spelling
+544d6a6ae7de353af6b5d8abf1609ed2d10613fa099f75d116695bd5105a5327	Ғүмерҙә тартмаған кеше өҫтәл тартмаһынан сигарет алғайны, шуны ыуғылап ул­ тырҙы ла, кире ырғытты:	ba	grammar-or-spelling
+4914a38b00db61a421ee8d20976248f1dbd85ef06d9cb02952208b2c7ef30218	Кем белә, институтыңды ММнмлпгас, бәлки, беҙҙең клиникала эшкә лә ҡалыр инең	ba	grammar-or-spelling
+3ef4081f4da16ba7ce322ce8efa1082f75d5ca9abc2fa1f1536a68724d0dd64a	Пенсеһе лә килеп тора	ba	grammar-or-spelling
+3edb5b92a4c7734835a398dad0f184e3ddf076566f984b8319a9c032f153c2fb	Әммә әлкә комитет бюроларында, Министрҙар Советы ултырышында баш бирмәгәнлеген белә	ba	grammar-or-spelling
+5e61128e889883246484d87fb5d7eabef85812558d96a04b19e21cfdfb4ce558	Ш аҙра беҙҙе кпгортто	ba	grammar-or-spelling
+5c7382aa8ff3ad394554258a71eebcc8fe2f8b5e7710693a59cac93cdd4c4836	Егерме өсөнсө бүлек	ba	grammar-or-spelling
+5e61128e889883246484d87fb5d7eabef85812558d96a04b19e21cfdfb4ce558	Ш аҙра беҙҙе кпгортто	ba	grammar-or-spelling
+62985b666a6637169dd2017cdc9e09ba947dd75b3b482ee8743fbf5229721747	Ул көндө кәргә генә ҡ ц д ы р инде	ba	grammar-or-spelling
+5e61128e889883246484d87fb5d7eabef85812558d96a04b19e21cfdfb4ce558	Ш аҙра беҙҙе кпгортто	ba	grammar-or-spelling
+6949f27702cc645d237e17e218b61c5ddba0a798561f1bbdf0e3e6121535749f	Ошо чәлгә дүртәүләп ҡыуаныштылар	ba	grammar-or-spelling
+54b3f53f11456b752868f6f867ff71041b7b8b5d4ade511702a278cbde736795	Ун тулырға яртН сәғәт ваҡыт бар ине әле	ba	grammar-or-spelling
+30f6b85526cf1d023474edddefc5dde6fe9ce55cc6a71f1a87ef57a17d712d99	Арыҫлан Рәхмәтулловичты яратып шидылар	ba	grammar-or-spelling
+093e6b771bfe8edbf1be5f2a170a6b7ecc59476aa06064d84821bc31a9169045	Щтлы осрашыуҙарҙы хәтергә төшөрҙө	ba	grammar-or-spelling
+4634bdca1d9f49987cd6ca1e59b0013ce5e6319e7cc7a87bcabc7c37e5d4668e	Теге ишетте, ғазапланып башын борҙо, һаҡаллы Наси- ровты күреп, аптырабыраҡ ҡалды шикелле	ba	grammar-or-spelling
+f3a2ff365d0c3ec24548837c1a8c7911620db150bf4e6831019ef80aaa5685ce	Шулар рәтендә республиканың берҙән- оср ҙур больницаһының берҙән-бер баш врачы ла көтә	ba	grammar-or-spelling
+70041237822ecdcf28292beb76557322f79530952fdf1d26334f53e491990424	? Анау әкиәттәге кеүек, ауылым янына осор ҙа китер инем.	ba	grammar-or-spelling
+5447611d09947ebb8213c6fcca93798ca73907835c1fc5f0bb7ef8c590415af7	Ни- ңәме? Һин беҙгә бик ҡиммәтле мал	ba	grammar-or-spelling
+71b686914a8e46ca952dc189360396e54be45fa18b0148e912023e8c78e7d0ae	Ул апайҙы түр яҡҡа ҡа­ лын юрғанға төрөп ултыртып ҡуйҙы	ba	grammar-or-spelling
+51142506899c47837aa27690a7da420639f00f3b5fe7bebe2e2958b2b250a01f	Профессор тәҙрә төбөндә ҡалын бер пачка булып туҙан- шыл ятҡан ҡағыҙға иғтибар итте	ba	grammar-or-spelling
+685cf1f9c7c633e2ad9730d6aebe14b29f21155b02b93b69e0b6826b427fb23a	Быны Йәғәфәрова шунда уҡ то­ топ алды	ba	grammar-or-spelling
+6b08fe2263b8bb914b2e7f3bf76bdba6bce834e76dee5ce61c7275d52bd95e06	— Йәнә яңғыратвп ҡысҡырып ебәрҙем.	ba	grammar-or-spelling
+72904800b1101032f439519f68fefffe6be44542df80a444c1de247aac585a01	М-мин б-был д-донъяға яңылыш тыу-тыуғанмын	ba	grammar-or-spelling
+69858b526d79e33e9c12014b5b558dc1bf5d9712aba548f382d3a78ae5044678	Шунан кеҫәһе- и ш зажигалка сығарып милиционерға бирҙе	ba	grammar-or-spelling
+6985ccafe991e69d30b4ec560f768900da42acad21fc39e65b372c7e7fe2eaab	Мша килеп етерҙәр	ba	grammar-or-spelling
+659dcc42e40a4fd43a470571f1165757834fe33a69732dadffdfee4b99746445	Шуның бер етешһеҙ ягы бар, шикләндерә	ba	grammar-or-spelling
+f6037c79b6c86d945803b27723c5c1c215b5a16505ba05a810738aa02a62fe1f	Был фекер туплау өсөн мөмкинлек ипрср	ba	grammar-or-spelling
+78842a438d5507cac8fcb34c9f6f22f3078aa8c8441d2fd237815c4d1d8824c7	Алдындағы бер нөктәгә тө­ бәлгән дә онотолған	ba	grammar-or-spelling
+6b901a19f4a5da7508fb40776db594b3cb14eb2770b9ecb6aa194e5dde3935cd	Әлеге лә баяғы, пробле маға бер яҡлы ҡарау булып ҡалды	ba	grammar-or-spelling
+7c636e6508207396b0d44d2047d54c3029ba9081658894be1fe03eb32b19cfff	— Киттек, әтеү икебеҙгә лә эләгәсәк.	ba	offensive-language
+7c636e6508207396b0d44d2047d54c3029ba9081658894be1fe03eb32b19cfff	— Киттек, әтеү икебеҙгә лә эләгәсәк.	ba	grammar-or-spelling
+659c8e617c53272166e937586c81dbd8f6c939d920e5dc6f6927eb7ca245523a	Сәсәкәнән сәскәгә безелдәп иңкеш осто, ҡыуаҡтан ҡыуаҡҡа, ҡанаттарын пырылдатып	ba	grammar-or-spelling
+7976c31d2b6d4e6680cdf7e13b98f8e57ed99d4bddd508ae8dcbb434bfec0c79	Халыҡ хужалығын тергеҙергә кәрәк пие бит	ba	grammar-or-spelling
+6a6212a354a5a69a7bbbd048078e479991855d1c563a33313710aa4867ff7b73	Нисек хәлдәр? Беҙҙең тау бой­	ba	grammar-or-spelling
+7437bfdd4ddd3100c1a8158f90ef2867bb47edeae3472984c18d71487916e9cd	Токорҙо һиңә Таштимер	ba	grammar-or-spelling
+6eb25fa03096e4fea50f39c70685bbf697c98809eb2a0bd6ee6c5d60980c0e82	— Үҙе оҙаҡ итеп, тараштарына айырым бер мәғәнә һалып, кәйефһеҙ генә	ba	grammar-or-spelling
+62985b666a6637169dd2017cdc9e09ba947dd75b3b482ee8743fbf5229721747	Ул көндө кәргә генә ҡ ц д ы р инде	ba	grammar-or-spelling
+67324901bb33e041003b07d7627edf950991ed24bea834a9676abe2513e4bea4	Төшкә табан ғына өйгә ҡайтым индем.	ba	grammar-or-spelling
+8831ef05253672fdcf77618618d6fd635a6d75090bf068908a14c14578027d2b	дарҙы беләм мин, хәйләкәрһегеҙме әллә түҙемлеһегеҙме, j беҙҙең кеүек ҡыҙыу баштарҙы тиҙ һыуындыраһығыҙ	ba	grammar-or-spelling
+8a60b4992635a381313a335afc25fb65b0d20a8354fa110355278a49c21cf70c	Мәрғүбә листовкаларҙы торба яһап төрөп ҡултыҡ аҫтыпм ҡыҫтырҙы ла ишеккә атланы	ba	grammar-or-spelling
+69fcea9e3ea120d7014dd075019c6199528ea7c8ea04057db01cbc90827eab42	Нурихановтың тәне щралып барған кеүек ине	ba	grammar-or-spelling
+69858b526d79e33e9c12014b5b558dc1bf5d9712aba548f382d3a78ae5044678	Шунан кеҫәһе- и ш зажигалка сығарып милиционерға бирҙе	ba	grammar-or-spelling
+44899ada4161df25274ee8fc306e4d6e259206f04fe7099b1900952b7d2ea054	Йәғәфәрова үҙе ошоларҙы уйлай, үҙе һаман Яубаҫа­	ba	grammar-or-spelling
+51142506899c47837aa27690a7da420639f00f3b5fe7bebe2e2958b2b250a01f	Профессор тәҙрә төбөндә ҡалын бер пачка булып туҙан- шыл ятҡан ҡағыҙға иғтибар итте	ba	grammar-or-spelling
+7e8efaaa936943a05c3f2e3b71a1772c642ad5014ac4f086feaf78fdc26efbe9	Аҡырманы-баҡыр- мины, ҡаҡманы-һуҡманы, ә донъяны көттө	ba	grammar-or-spelling
+821a0d8bc4964217c46765c9533e57042dd4d815c6cde3b995e29dbedf93432b	Өфөләге больницала ла йыш ятып Iлйта башланы шикелле	ba	grammar-or-spelling
+86c9f0bc6e2168fc87f5a25e03dad3ab4094604ee2ac1fd91d61208b2700a985	ровтың күңелһеҙ йөҙөн онота алмай	ba	??????? ??????? ??????? ????? ???????) 
+8831ef05253672fdcf77618618d6fd635a6d75090bf068908a14c14578027d2b	дарҙы беләм мин, хәйләкәрһегеҙме әллә түҙемлеһегеҙме, j беҙҙең кеүек ҡыҙыу баштарҙы тиҙ һыуындыраһығыҙ	ba	grammar-or-spelling
+785e17f7f9a1bc7ad23e8dbcbd8f093ee06f6d5fbc9218abfb79f0be8de3043a	Әле һиңә һуңлап шылтыратыуымдың да ғилләһе шул инс	ba	grammar-or-spelling
+821a0d8bc4964217c46765c9533e57042dd4d815c6cde3b995e29dbedf93432b	Өфөләге больницала ла йыш ятып Iлйта башланы шикелле	ba	grammar-or-spelling
+69fcea9e3ea120d7014dd075019c6199528ea7c8ea04057db01cbc90827eab42	Нурихановтың тәне щралып барған кеүек ине	ba	grammar-or-spelling
+03c401f4fb0f70a00e40c5aab44733eb353bd2fa44323c8654c35ab27415a894	Уға күтә- р ни ҡарарға ерәнеп ултырған Шамратов, ирекһеҙҙән генә	ba	grammar-or-spelling
+84e2c3087dffa36ed96d504fff10c3da5350e23e1efe5e850124d926f9d59d0b	Брежнсн заманында, исмаһам, -бөтәһе лә етеш булды	ba	grammar-or-spelling
+7fc3045fc46daddd70ef0fb6064b472d16b37eab625ea9d011c7742e3b0cd78f	— Оләсәй-олатайҙары иҫән булһа бер хәл.	ba	grammar-or-spelling
+8da3b3b38a1c860ce8cf44d97ae3becf249b8f04fe2bba05db9fe46ba0ae2e09	Ярата ул ярты һүҙҙән үк шпап торған зирәк кешеләрҙе	ba	grammar-or-spelling
+937e61ac87a4370ed85aa6396b64cc0c2c11f18e8fb9e25360dbd7f58e966648	— Ғәжәләнеүемде йәшерә алманым.	ba	grammar-or-spelling
+7976c31d2b6d4e6680cdf7e13b98f8e57ed99d4bddd508ae8dcbb434bfec0c79	Халыҡ хужалығын тергеҙергә кәрәк пие бит	ba	grammar-or-spelling
+6949f27702cc645d237e17e218b61c5ddba0a798561f1bbdf0e3e6121535749f	Ошо чәлгә дүртәүләп ҡыуаныштылар	ba	grammar-or-spelling
+8fcc4187471acce14f69a414b673c94e01fd37f3fd601d922cfc82bce0f52fe2	Әлбиттә, үтеп кермәгән миноге юҡ	ba	grammar-or-spelling
+849143969363c25c42aef9e406974afb22bb029b910c44bb7e378090c72ea711	Тәүҙә ҡурҡытып кырандасты и,ша төрттөрөп үтергә булған шикелле	ba	grammar-or-spelling
+7437bfdd4ddd3100c1a8158f90ef2867bb47edeae3472984c18d71487916e9cd	Токорҙо һиңә Таштимер	ba	grammar-or-spelling
+62985b666a6637169dd2017cdc9e09ba947dd75b3b482ee8743fbf5229721747	Ул көндө кәргә генә ҡ ц д ы р инде	ba	grammar-or-spelling
+95a5ad5e25872dd9ad342983faf49d2c8894f104f6a62ec431a3bcbc428bb44e	Уныһы теге академ мыр­ ҙаны ҡарғай	ba	grammar-or-spelling
+69fcea9e3ea120d7014dd075019c6199528ea7c8ea04057db01cbc90827eab42	Нурихановтың тәне щралып барған кеүек ине	ba	grammar-or-spelling
+9fbcdab7597077574a722bfe4695d0adf121c46e98dbf4b3966af4c8ce2e4920	Ә бит нисегерәк ҡотортто, өгөтләне Ғилман- чы шул эште башларға	ba	grammar-or-spelling
+9a062266a36948e2c8e15f7d54e2b90db67c8720b6b3bed45b42ff9404f6ec0e	Беҙҙең ҡартлас, беренсене әйтәм, хәҙер сетерекле мәсьә­ ләләргә ҡыҫылмаҫ, моғайын	ba	grammar-or-spelling
+785e17f7f9a1bc7ad23e8dbcbd8f093ee06f6d5fbc9218abfb79f0be8de3043a	Әле һиңә һуңлап шылтыратыуымдың да ғилләһе шул инс	ba	grammar-or-spelling
+9c414921270e61ad1905a13a395504c5cf7d5a95fdd552a7950cb3dabc2a50d4	Элегерәк кеше ло батҡан, тиҙәр	ba	grammar-or-spelling
+8ea4330065c1120483e916da7ea0b3dd47b747b2b47e026bbcedabc60562ac46	Әк­ рен генә сәй эсте	ba	grammar-or-spelling
+8534dd5d981711088d9095c2962fa4f6643c676a574b68e1750751063a9d5fc9	Гнҙерәк дуҫтарын ҡотҡарырға кәрәк	ba	grammar-or-spelling
+69fcea9e3ea120d7014dd075019c6199528ea7c8ea04057db01cbc90827eab42	Нурихановтың тәне щралып барған кеүек ине	ba	grammar-or-spelling
+8d1dc8ed8140488b50b8f270b8060aab8c218c030bf50fcc5320e39df5340924	Тик бына был опус дөрөҫ булмаһа ла, халыҡ фекерен тупларға етә ҡала	ba	grammar-or-spelling
+ac697207ff87b269b4c3ffd27a53eab65011d1960661dc6c58e1236bc71725c1	Мәш ҡатын баш врачтың һүҙҙәренә иғтибар итмәне, үҙ	ba	grammar-or-spelling
+03c401f4fb0f70a00e40c5aab44733eb353bd2fa44323c8654c35ab27415a894	Уға күтә- р ни ҡарарға ерәнеп ултырған Шамратов, ирекһеҙҙән генә	ba	grammar-or-spelling
+adac6688991f4bd9a34f5255738d94585ae69ea74c13ccffcfee537362efbb6a	Әҙерләп ҡуя- саҡтар	ba	grammar-or-spelling
+8a60b4992635a381313a335afc25fb65b0d20a8354fa110355278a49c21cf70c	Мәрғүбә листовкаларҙы торба яһап төрөп ҡултыҡ аҫтыпм ҡыҫтырҙы ла ишеккә атланы	ba	grammar-or-spelling
+c0fa2135e57ae917be7739bc351a52b24a019331309bc11fbf3452a406ea444c	Ильяс менән Фәрит исемле малайҙарығыҙ бигерәк сос икән, ти.	ba	grammar-or-spelling
+ad91f9992a6370addb53ab116781a71a59a6db265496ef0c966b381df6dd6101	— Үәт шунда уҡырға инергә тырыш.	ba	offensive-language
+bae629df80079bf0595f4d88637300b519af1491b1b961a0a4a7cf2e9a71b029	Белмәйем, бәлки, ағыр йәштәр ағып бөткәндер ҙә.	ba	offensive-language
+cd437cba9270037a4120114065877517bdc669fd4b24df9b802b8f2271672960	Ә бына Гөлшанды ш аһы атаҡлы Арынбаҫаров булғаны өсөн урлап алып киттеләр	ba	grammar-or-spelling
+bc858f0b68fa403126e0dc382dd80085450c18e860064cdfc83e44a76acdd8d0	Теғе баштан Ҡотлобаев:	ba	grammar-or-spelling
+cdec00350a266dd7fe584040f042d4b1bb1208786ff32b56888447e9da065aa0	Осонсө ҡатҡа күтәрелеп, лифттан сығыуға:	ba	grammar-or-spelling
+d283a8fdaee865ea2aa0edab1aaae63180d4c3ec805b7b97f2cfc5b417cfdc98	Тал араларында нпш гар сырҡылдаша	ba	grammar-or-spelling
+51142506899c47837aa27690a7da420639f00f3b5fe7bebe2e2958b2b250a01f	Профессор тәҙрә төбөндә ҡалын бер пачка булып туҙан- шыл ятҡан ҡағыҙға иғтибар итте	ba	grammar-or-spelling
+b2a46fd01c2dfeac3374b6e762f54ead23ef442102669d76f9ae8f97b16acb96	Р АПО советы председателе Арғынбаев тороп баҫты	ba	grammar-or-spelling
+f6037c79b6c86d945803b27723c5c1c215b5a16505ba05a810738aa02a62fe1f	Был фекер туплау өсөн мөмкинлек ипрср	ba	grammar-or-spelling
+c14bb14afa3c75c25259656d07c8b8de7fe3c9b70f799cbd513e341a4d559f38	Апайым, ағайҙарым ҡаршы булһа ла, тегеләр беҙҙе алып китергә тәким күндерҙе.	ba	grammar-or-spelling
+c2a4a16fd1de2cb785685521295aeab5a18d367ee8d6e0fbec87ac630e3ce5ce	Арынбаҫаровты икенсе көнөндә үк газетаға ла сәпәп иөрҙө	ba	grammar-or-spelling
+e7f5ae96668d9fb4022616ca8e1859b9b33d0aed1c2ea8307fd802d27d9fb24a	Беҙ бер ниҙә тимәнем.	ba	grammar-or-spelling
+ed03a2cd35e280434967981f7a1ef01f4ca931cc2a5a9f1ba9d5a16286ec963a	ИИМнрга гына яуап бирәсәк ул	ba	grammar-or-spelling
+e91eaf42681a59087b79dccce55f2af0db10b0a5e2ddd39e5e5171569a95bdee	Һ ин п	ba	grammar-or-spelling
+d16d3fa672cf40c56cc49d34c3d146cdc76d227e1345bf56a4668dc59c2488e1	Ара- оирыпда аңлағандары, аңламағандары бар	ba	grammar-or-spelling
+eea039fa29e6755dd21eddb644ed4300419750a8e0721d6439f6dc5972350992	Балшишмә һыуын эсеп, бер- ооребеҙҙе ташламаҫҡа ант иттек	ba	grammar-or-spelling
+e38f6c2608dfc983dbb5415df72efbeb0ca7b51ccf1a5fbc000752c0213a5501	Гөлшандан ү,ю шелтә лә алып өлгөрҙө:	ba	grammar-or-spelling
+e3047e69e7f4b2ebc736b3444a97c54b88d2ad9f4465954e73e4d8a877b8836f	Ҡыҙҙар, осона-осона, Ҡаҙнабаевгы алмашлап үбеп алды	ba	grammar-or-spelling
+01c89d1f2e47d6e05c2e54f29e08caf1749dc235a2ef801670a78ae20bfc1784	Үҙ алдына моңһоу М	ba	grammar-or-spelling
+01b89ab82f786800e05c1fffdca6e20a3d32bc4089728f420326972ebe280c5d	— һин мына, һеғыем, бер нәмә лә эшләмәйһең шул	ba	grammar-or-spelling
+017eb4582c0d66a888bb38506595a92f78995f90bd3b75527d7bd642417b0814	Бәүелдереп, бәүелдереберәк үт	ba	grammar-or-spelling
+ffdc5a6c24d159778ae9276b7ef0955b50f4a228e9b9c1ab27a439db0fc440f6	Етмәһә, түшәгенән урып бирә	ba	grammar-or-spelling
+0185114a094a2b1fcd5d42e132a6a3bd12141442bdc2cd82e041ad569b7cc9c5	Шылт Ип- ш дә тауыш юҡ	ba	grammar-or-spelling
+fb62c1dd669feb65e33e7f7b1ba518df3f7096453cf2c483b56017fb3c8e2060	Һында һауа дымлы, һалҡынса, үҙеңде таш һандыҡ әсемдә кеүек һиҙәһең	ba	grammar-or-spelling
+e91eaf42681a59087b79dccce55f2af0db10b0a5e2ddd39e5e5171569a95bdee	Һ ин п	ba	grammar-or-spelling
+fd5f12f2ecdb0db98dc4cbc10752a91689bf4d2ae4704ed3b310aa93214f7675	И ш ек үҙе лә аслып китте, ләкин тышҡа ырғыған кеше юк ине	ba	grammar-or-spelling
+0166a99d5b9628a7c0ab8a4d55367642a148c06bf161f13d3a1378c760c34afb	ВИИирен киреп ебәрҙе	ba	grammar-or-spelling
+0184d2fe7de3e838f092ccad3905eb1f02192bfd98509e60ee1b0692868da55a	Бер тиыгыҙ бында, икенсеһе тегендә	ba	grammar-or-spelling
+bc858f0b68fa403126e0dc382dd80085450c18e860064cdfc83e44a76acdd8d0	Теғе баштан Ҡотлобаев:	ba	grammar-or-spelling
+ff64dcb7cfb492c58934e0f9841c2d872e3797515e1acaf6240419dbc71d03cd	Был көндән башлап бөтөнләй тынғылым юғалды.	ba	grammar-or-spelling
+ce065630db312ced79f1a575ac93380167a0e3c74a010095d16b89184118cc9a	Үҙе ҙур ҙа түгел, әммә түңәрәк кенә	ba	grammar-or-spelling
+df403f2aa1a1dc1a2272bd0de498e8d690ec92b4e3445a502a906b16a9afcd66	Иғтибарлыраҡ ҡараһа, алғы рәттәрҙә баяғы таныш ир троп баҫҡан	ba	grammar-or-spelling
+f6037c79b6c86d945803b27723c5c1c215b5a16505ba05a810738aa02a62fe1f	Был фекер туплау өсөн мөмкинлек ипрср	ba	grammar-or-spelling
+cdec00350a266dd7fe584040f042d4b1bb1208786ff32b56888447e9da065aa0	Осонсө ҡатҡа күтәрелеп, лифттан сығыуға:	ba	grammar-or-spelling
+e6a088db2822f4159f69e2cb74958598bd2e9464d56fe443650d531f90812b23	Янында торгам биҙрәне тиҙерәк шишмә һыуына сумырҙы	ba	grammar-or-spelling
+e38f6c2608dfc983dbb5415df72efbeb0ca7b51ccf1a5fbc000752c0213a5501	Гөлшандан ү,ю шелтә лә алып өлгөрҙө:	ba	grammar-or-spelling
+07ec00a866020754e3796a2ff28fb4dbed8fc1685e4d3703a4d8d13eb525c42e	Ул шунда ята, ләкин бер ваҡытта ла ҡыҙыҡай нимә яҙған­ лығы менән ҡыҙыҡһынғаны юҡ	ba	grammar-or-spelling
+30f6b85526cf1d023474edddefc5dde6fe9ce55cc6a71f1a87ef57a17d712d99	Арыҫлан Рәхмәтулловичты яратып шидылар	ba	grammar-or-spelling
+17ecaa88586954c4faf014da916b30f48fa1f672c9cd8a9f14cf0768af579eb3	Булмаҫ та, арттыраһығщыр	ba	grammar-or-spelling
+371f4fdd4b9e5f78c7c7b2e99e923784429a811efdc748833b1dc3613e30b43d	— Ул Ҡаҙнабаев алдына бынан бер нисә көн элек Арынбаҫароп һалған ватмандың ксерокопияһын шылдырҙы	ba	grammar-or-spelling
+0e9926f43165f2ad4d08b7879812bcf8693c1348280d73127badd31e03686d8f	Хәҙер инде нгулция Һармаҡҡа ла аңлашыла	ba	grammar-or-spelling
+44c006d0ede33726e9338602ca48f5041e6a1c3b93e8e541e2d259343d075bb4	Әлеге дуҫтар нрҙам итте инде	ba	grammar-or-spelling
+2418b5a838500e8ae6bc56d43a4409440764f1de95f5861914e9e8bede1d679f	Кем халыҡ депутат- иыгына үтер, уныһын да ҡарап ҡарарҙар	ba	grammar-or-spelling
+3bc1258b94469b95e6ebc5ee388d5cf6ba1e81b158e2fa189a96b7fc31894298	Каҙнабаев кабинетында кеше күп түгел ине: партбюро икрстцры Сибәғәтуллина, СТК-нан Яманһаров, профсоюз	ba	grammar-or-spelling
+4c69315cbd464553ca14548fb5de8b7fb233659cc6a51f678f142c73a2ea15ff	Ә улар китһә, ш	ba	grammar-or-spelling
+337d1dab27da4abb7a91ea6e1ec5b3a59181a27c0549ba2494c7df8760d76053	Марттың уньгада үлә	ba	grammar-or-spelling
+1a1f306003963b0a494be02d0cd89e8238f0274b83e56b78f198dd1701c3cfb3	Әммә мин ебем ҡала торғандарҙан түгел	ba	grammar-or-spelling
+337d1dab27da4abb7a91ea6e1ec5b3a59181a27c0549ba2494c7df8760d76053	Марттың уньгада үлә	ba	grammar-or-spelling
+e91eaf42681a59087b79dccce55f2af0db10b0a5e2ddd39e5e5171569a95bdee	Һ ин п	ba	grammar-or-spelling
+41d0ff5d6bd5f794914025407ca78a150c632dba4e0f0336910586ff0e517945	Ҡатынының панамаһын үрелеп алың алма ботағына элде	ba	grammar-or-spelling
+52afe6e6ce95cff80a9e5fe31c78d1ab2e2cf98bae48c3c02b7d0bc2daf97d3d	Килеп, Мәүсиләнең ҡулын үҙене- кепә алды	ba	grammar-or-spelling
+3bc1258b94469b95e6ebc5ee388d5cf6ba1e81b158e2fa189a96b7fc31894298	Каҙнабаев кабинетында кеше күп түгел ине: партбюро икрстцры Сибәғәтуллина, СТК-нан Яманһаров, профсоюз	ba	grammar-or-spelling
+312a090b6d5b312b5a54e48bc55c5463a1da1208984458b51444f5f09a5942c8	Әлкә комитет секретары уның буҙарыуын үҙенсә щлапы шикелле:	ba	grammar-or-spelling
+42ebe5c0c911c713c39313565b996d7ce39bf1a599e69542e0fdce1fb385e684	Мине институтта лек- нпялар көтә	ba	grammar-or-spelling
+4a6650f53c8b716114b5db0ca7556eb035a737dc11b1009670cd0e51c632261f	Уның уҙ закондары бар	ba	grammar-or-spelling
+5b8838968f8823313fb0a10a00724c025670b770aefa1ef2ef8f362e8577a722	Ул бынан бер нисә көн элек Арынбаҫаров мгиан булған осрашыуҙы хәтерләне	ba	grammar-or-spelling
+312a090b6d5b312b5a54e48bc55c5463a1da1208984458b51444f5f09a5942c8	Әлкә комитет секретары уның буҙарыуын үҙенсә щлапы шикелле:	ba	grammar-or-spelling
+4fcf55fc0642eb4a4a01c4d573a6db7c2ed3eef231fc442fa9ed2b3d41162fde	Нмл тағы ҡабатланды	ba	grammar-or-spelling
+64e71510c7b837174acfc741ff924dc35b167f4001f8510e40a95c353cd55f80	Вадик, кеҫәңдәге ҡалған а-аҡыны би әле	ba	grammar-or-spelling
+5a6dde616503a6969c606d18f6d82e480e690ebf3ff5b525f42c9a02155dedfd	Тиҙерәк ауыл Советынан сығырға ла, ат егә һалып, шул Аҡтүбәгә елдерергә ине	ba	grammar-or-spelling
+66732eb76235b8445d091b10a8a8391d5e322263578422fadd98202e17d8bfb1	Хитта Элемтә производство-техник идаралыҡта ла	ba	grammar-or-spelling
+3ca794471852e6e7aa3b536c15a8f2443f117f91a06fe5f6b4d31b297218462d	— Бар, кит, күҙем- Ш Юшл	ba	grammar-or-spelling
+3fb5ca1f9762b9b9417c87922761897326d307a5e85270f2506b3cb3f580d17e	ШДЭ туҙылып ятҡан ҡағыҙҙар араһынан ошо ватманды һурып алып, ун биш меңде төрә	ba	grammar-or-spelling
+4fcf55fc0642eb4a4a01c4d573a6db7c2ed3eef231fc442fa9ed2b3d41162fde	Нмл тағы ҡабатланды	ba	grammar-or-spelling
+49fe6e62723eabcea7dd27f4f6ffa04a1bd341d4c964f2e9a15fbc1175a4dfa9	Ул яңы ғына бирелгән ыштанын кейем алған ине.	ba	grammar-or-spelling
+6da987e764de5addae1c10a719d16d366f3cf969f1320ee30cef1dcb4ae091ef	— Ә миңә? — тинем аптырам.	ba	grammar-or-spelling
+312a090b6d5b312b5a54e48bc55c5463a1da1208984458b51444f5f09a5942c8	Әлкә комитет секретары уның буҙарыуын үҙенсә щлапы шикелле:	ba	grammar-or-spelling
+67eb66006bbb2932bafc0119fa0db0538c8c00f3a8c971fea2da4f5567fc1643	Ҡәһәр генә һуҡһын һу- гышты	ba	grammar-or-spelling
+785e17f7f9a1bc7ad23e8dbcbd8f093ee06f6d5fbc9218abfb79f0be8de3043a	Әле һиңә һуңлап шылтыратыуымдың да ғилләһе шул инс	ba	grammar-or-spelling
+6985ccafe991e69d30b4ec560f768900da42acad21fc39e65b372c7e7fe2eaab	Мша килеп етерҙәр	ba	grammar-or-spelling
+74b2ce517abbef5a1691defa8e40009fd1616853a5516c38f60c766a3238cb5a	Кем белә, бәлки, яратыптыр? Юҡ, был мәсьәләне ҡуя ал-	ba	grammar-or-spelling
+70530cb38d6131ebb66df08f046da9174c795732956fa847a5d822ace6977683	Әлфиә лә бер аҙҙан уньщ янына килеп баҫты	ba	grammar-or-spelling
+6b901a19f4a5da7508fb40776db594b3cb14eb2770b9ecb6aa194e5dde3935cd	Әлеге лә баяғы, пробле маға бер яҡлы ҡарау булып ҡалды	ba	grammar-or-spelling
+590534ff0b06b61c629b4dfd83ba929dc5e6c7b73c70ee69d1a442c880850a0d	Бөтәһе лә һораулы ҡараштарын Лрыибаҫаровҡа төбәне	ba	grammar-or-spelling
+70041237822ecdcf28292beb76557322f79530952fdf1d26334f53e491990424	? Анау әкиәттәге кеүек, ауылым янына осор ҙа китер инем.	ba	grammar-or-spelling
+7b72648ffc4c0e1ca0289c2dd16d5792f0321a7fc7f3d0089a56281f4b90284b	— Үҙегеҙ бит, Ғилман Сәмерханович, такое скажете, ят та үл инде прям	ba	grammar-or-spelling
+875b3252c6f64580d661d8d606786394d278591e36590266d80b391525d00c35	Ауырыуҙың сырмалған башын көс-хәл иенән күтәрҙеләр	ba	grammar-or-spelling
+4a6650f53c8b716114b5db0ca7556eb035a737dc11b1009670cd0e51c632261f	Уның уҙ закондары бар	ba	grammar-or-spelling
+8534dd5d981711088d9095c2962fa4f6643c676a574b68e1750751063a9d5fc9	Гнҙерәк дуҫтарын ҡотҡарырға кәрәк	ba	grammar-or-spelling
+a6db440c834175d022ee1a9e618929027bc63a44c0eac8b432d5fbf0e0dfcb3e	Ишетәһеңме? Аҙаҡ бешергән һурпаңды үҙеңә һемерергә тура килә	ba	grammar-or-spelling
+a5e25c9e7a83c36947c0d4461ff889fec9bda32db662867115500233e7cfec25	— Юҡ, әйҙә ай буйына детдомда иҙән йыуһындар!	ba	grammar-or-spelling
+a7c92c272698d998f0e977e69b0fd6c712cf77f7341e899c14824dbe82d98f19	Шунда лүрәнәләр араһында ҡыҫылып саҡ үлмәне	ba	grammar-or-spelling
+aa21905459dff043722b7a4a9135797712170c09c003f82fdf84328f70a6768c	Папкаһынан үҙе менән килтергән ғилми хеҙмәттәр, карталар сығарьнт һала башлағайны ла, Айытҡолов тыйҙы:	ba	grammar-or-spelling
+9eadbbf18ada49f2e8b2c35e59908fa67dacc0b856d16f8a8bbc10a024bcd74d	Ошо хәле Флүрәнс ҡурҡыуға һала ла инде	ba	grammar-or-spelling
+a0be0b4ee216347fe72832d6868b9b24ff77f6546ebc484ca3334aaf89c4053e	Бында әле мөпимерәк эштәр бар	ba	grammar-or-spelling
+a830fc3211d8c8336090e6d71f82fa42ada44f868bb1c9b2ecc2c89a5b4e0e84	Ахмаҡ, тилебәрән орлоғо ашаған, шуны ла шишмаган	ba	grammar-or-spelling
+9fbcdab7597077574a722bfe4695d0adf121c46e98dbf4b3966af4c8ce2e4920	Ә бит нисегерәк ҡотортто, өгөтләне Ғилман- чы шул эште башларға	ba	grammar-or-spelling
+b775517f3387b6e7feec04de9dadedbdf97ae3f75840cadce5144356a695dc8d	Ғәфү ни ыд, Арыҫлан Рәхмәтуллович	ba	grammar-or-spelling
+af2753585d045d523621b05804b8ff5d9390535ec2a49ed04cfbaccd6b9992f3	Ғәрсел кнртластың күтәреп һуғып сығып китеүе лә ихтимал	ba	grammar-or-spelling
+b3018b51471508d0fae1ed17de87c5146188ef6bb2ea54b1de1a6e08dbe62af6	Тиҙотте, иҙеүҙәрен элде	ba	grammar-or-spelling
+b5d6aaff43cbb02e7e03a1d1499ff92126c8b3018f29ff3dad2678363ddd5a30	Ошонан ҡыҙыҡ табып, и к е һ е лә рәхәтләнеп колә	ba	grammar-or-spelling
+b50774836fd0618326350a7194f9d8019b96520742c63ae77af472084f5bd05c	Әлкә комитет секретары сәғәтенә ҡарап алды:	ba	grammar-or-spelling
+8fcc4187471acce14f69a414b673c94e01fd37f3fd601d922cfc82bce0f52fe2	Әлбиттә, үтеп кермәгән миноге юҡ	ba	grammar-or-spelling
+9da3df8fc2809061eb82a4ab8e657ed99bf9471bd2815ee73eb3e0c82e2d10e7	— Мәғәнәһен дә аңлатып бирегеҙ инде, Хәйрулла Иб­	ba	grammar-or-spelling
+655f81d5806f654b0e6f67907e4bea78e5133cf3f63a681bad57faee86d4ddac	Ә үҙеңр ярҙам	ba	grammar-or-spelling
+a82a4499029c5778f2836b50bd85c619f671316a017a088bd7acaa268952840f	Аҙағыраҡ уның яҙмышындағы ҡот осҡос хәлде бел- ннор	ba	grammar-or-spelling
+ac697207ff87b269b4c3ffd27a53eab65011d1960661dc6c58e1236bc71725c1	Мәш ҡатын баш врачтың һүҙҙәренә иғтибар итмәне, үҙ	ba	grammar-or-spelling
+b876c997fbb7bb7f424a99d81e2b139c6af0c2957c386c297958b7b02ab655fd	— Врач ҡатын сестраларына ҡырҡа күрһәтмәләр нирҙе, тегеләре төрлөһө-төрлө яҡҡа сығып сәселде	ba	grammar-or-spelling
+b9574bf58d01c1049c77aa5529a4202e810837b3b309f226750123b5e6ed18fc	Кемгә нисектер, әмм минең өсөн һеҙҙең кеүек етәксе башҡа булмаясаҡ	ba	grammar-or-spelling
+b37ce75a4fca22e244394d232017137d1c75fa8bd3b0f0aa0d5990fa55da8945	Арынбаҫаров графиндан һыу эсте, көлөмһөрәп, бармак янаны:	ba	grammar-or-spelling
+aec8b267a4d54ab3a3ef525bf47ec280fea3c8da43e70a4dabe00bc35027249d	КРимма яурындарын һелкетте	ba	grammar-or-spelling
+a0725335fcd9159772aefb966eb292e3f29f5fd0c0ba90c070bf49f5f1be4eb4	Ну сибәр, суҡынғыр, ысынлап та килмәгән-ет- мәгән ере тоҡ шул	ba	grammar-or-spelling
+aedc7528f3847416beaef580c6dc49c579fb9f9e2b7d3c3112057de9e9497526	Уга берәү ҙә яуап бирмәне	ba	grammar-or-spelling
+c2a4a16fd1de2cb785685521295aeab5a18d367ee8d6e0fbec87ac630e3ce5ce	Арынбаҫаровты икенсе көнөндә үк газетаға ла сәпәп иөрҙө	ba	grammar-or-spelling
+875b3252c6f64580d661d8d606786394d278591e36590266d80b391525d00c35	Ауырыуҙың сырмалған башын көс-хәл иенән күтәрҙеләр	ba	grammar-or-spelling
+c507fa0080b19bb73cd8940e2aa56ef315a177c90cc75d93c451b294dfb96db2	— Ә ниңә аптырарға, беҙҙең беренсенең, Илғужа Ғи- пиәтовичтың, яратҡан кешеһе бит	ba	grammar-or-spelling
+c80ada5b263d54f284e0d740ff53fb7d92aae1caed06c44b7c5294cd13e1df55	Беҙҙән күпкә олораҡ булғас, көрәктәй ҡулдарын улға-һулға һелтәргә оҫта.	ba	grammar-or-spelling
+b13d3cc3567bc8e50fc550db41303c0a78547ca36d224d3852594a9b82aa716b	Беҙгә уның Һир нәмәһе ҡәҙерле	ba	grammar-or-spelling
+bf11561167ebb802a01cc929f2ed6fbd1714fc504ed2e0bd6f97032fd6d718f5	Ул инде беҙгә лә күрһәтеп ботә	ba	grammar-or-spelling
+cbec4acaea1eacb7ef74607eeadf985242de451e42baa7c8df27414d36b47b80	Сөнки гөнаһ үҙҙәрене- кс, халыҡ алдында оят	ba	grammar-or-spelling
+cf9da9a3b0fd9362167cc1fb81a14b0a3a584ad1a02ee6678a8d4e9c0c65fdb3	Шаңҡытылған балыҡ һымаҡ, креслоһында иҫәңгерәп ултырыуын дауам тте	ba	grammar-or-spelling
+a7fb35a385d4756505eab11e38a80969fd4c52f9e537bd5286988996562aac46	Ул юл ситендәге Ҙур ак ташҡа ултырҙы	ba	grammar-or-spelling
+d700367c3232c6968ae3d7bc284ea3e547eeb5f3af48b2af845d89d711191aa8	Ҡулын болғаньҙ, профессор ҙа уға яуап бирҙе	ba	grammar-or-spelling
+d205bc37599f9634c4c201fb271a5f5d494bfa6f45d0b4c20737a03c60cedc9f	Китте сыр-сыу, китте ҡымғырыз	ba	grammar-or-spelling
+0166a99d5b9628a7c0ab8a4d55367642a148c06bf161f13d3a1378c760c34afb	ВИИирен киреп ебәрҙе	ba	grammar-or-spelling
+fb62c1dd669feb65e33e7f7b1ba518df3f7096453cf2c483b56017fb3c8e2060	Һында һауа дымлы, һалҡынса, үҙеңде таш һандыҡ әсемдә кеүек һиҙәһең	ba	grammar-or-spelling
+0da9ff5b34a5f028aa9e629ad41350e96bd4f86dd68401db655cd61edc099225	Хәҙер дүртенсе курсты тамамланыҡ, һуңғыһы Хила	ba	grammar-or-spelling
+0aa15870227b2cc66b450d5cd0c73c20b48c7ee46fc426c323a5fab8448092ef	Тегеһе ике- мәнеп торманы, һаҡлыҡ менән генә Бибинурҙы ҡосаҡлап алды	ba	grammar-or-spelling
+0c6da2e986dd2316954525ef79422766865f475cb565bb64782ab353bb10990e	Бинең эш түгел	ba	grammar-or-spelling
+ff786189fdd34603c7bb1f04c6e0a5bb89459650338d4ea9ec179dd8619c876b	Һитәһенә лә атаҡлы профессор булып бөтөргә тимәгән	ba	grammar-or-spelling
+0e9926f43165f2ad4d08b7879812bcf8693c1348280d73127badd31e03686d8f	Хәҙер инде нгулция Һармаҡҡа ла аңлашыла	ba	grammar-or-spelling
+069e277e6b76115826f21e5d8d7b1d75fb1737281753d51d7739b5a62da0a1e7	Ә инде депутат итен үткәрмәҫкә бөтә көстәрен һаласаҡтар	ba	grammar-or-spelling
+1045872e8328351ad6ebe7ea93e013b0938f682c5ea16b6cb1a180c6762a03da	Ошонда юлға сыҡҡанда гына әллә нимәләр эшләр, шашыныр кеүек ине	ba	grammar-or-spelling
+3164a2fa244824825d890137f87dbcc4d92fd0f54100bb2771c1384ca581f2b6	Ризалыҡ биреүе лә ана шул ҡала газетаһындагы мәҡәлә арҡаһында булды	ba	grammar-or-spelling
+30f6b85526cf1d023474edddefc5dde6fe9ce55cc6a71f1a87ef57a17d712d99	Арыҫлан Рәхмәтулловичты яратып шидылар	ba	grammar-or-spelling
+0f964b3e3398244c9b2336260aa5f1286e33c9ff95904f5159e6fe731fd3315c	Әле депутатлыҡҡа кандидат үҙ программаһы мгнон таныштырҙы, тип ҡотолорға мөмкин	ba	grammar-or-spelling
+25df47df187de3952381b3063d4ac26ce48f5272d90c234cf31ba531a2abdd9d	Аҡыл билдәһе имде был	ba	grammar-or-spelling
+44f42f5a03c329cff90f39c5a80e5970ef1553a7b39c6df039a7a8b713bb540c	Бите, танауы ҡатып бөткән, илауҙан шешенгән сем-ҡара күҙле ҡустыһы	ba	grammar-or-spelling
+545e16beb82a77526947de1a89f67fdfcc164628386037026c870233927fe444	— Мәүсилә баш тартҡанға әсең бошамы? Төкөр	ba	grammar-or-spelling
+022e5e30f4e47cd761fdf8f7810db1b8330e514fc67255200a2ef8308d1e557b	Аръяғы унцщ өсөн ҡыҙыҡ та түгел ине	ba	grammar-or-spelling
+0f964b3e3398244c9b2336260aa5f1286e33c9ff95904f5159e6fe731fd3315c	Әле депутатлыҡҡа кандидат үҙ программаһы мгнон таныштырҙы, тип ҡотолорға мөмкин	ba	grammar-or-spelling
+54b3f53f11456b752868f6f867ff71041b7b8b5d4ade511702a278cbde736795	Ун тулырға яртН сәғәт ваҡыт бар ине әле	ba	grammar-or-spelling
+4914a38b00db61a421ee8d20976248f1dbd85ef06d9cb02952208b2c7ef30218	Кем белә, институтыңды ММнмлпгас, бәлки, беҙҙең клиникала эшкә лә ҡалыр инең	ba	grammar-or-spelling
+64ba8293fc5df28d76fcc5c3f963c217fd770cd239704ecad573d468e095be71	Яуап биреү урынына ба- ИП	ba	grammar-or-spelling
+73585bd4ff59e86201e71c90720ebbb6e74fe382cfe527616cf23b32bb14cdcb	Бөгөнгө көндөң бер Iona ҡыуанысы булмауға ул аптырап ҡуйҙы	ba	grammar-or-spelling
+6949f27702cc645d237e17e218b61c5ddba0a798561f1bbdf0e3e6121535749f	Ошо чәлгә дүртәүләп ҡыуаныштылар	ba	grammar-or-spelling
+755f3c406fb503cdb963e1c4dad514aac4b0f3a28e8cc4365317a268f32ee7ed	Кем, кем, участка мастерын да дорөп сығарып ебәргәс	ba	grammar-or-spelling
+80fab1855eaf3d8b0205e1f00d1fae221888c25a3d21c1c8249bc5c7f674f0ab	ИИЦТнры бармы? Булмаһа, саҡырырға кәрәк	ba	grammar-or-spelling
+88eef789b3f665bab125b722fb8907b93783aba2fddd6298284f5e5d1b52b91e	Минең дә хәл ҡыл осон- дә булған шикелле	ba	grammar-or-spelling
+69fcea9e3ea120d7014dd075019c6199528ea7c8ea04057db01cbc90827eab42	Нурихановтың тәне щралып барған кеүек ине	ba	grammar-or-spelling
+666c270345633c61ee166e05a34eb998f4f6b8232e621ac3a005d04f16929c43	Ҡот-ҡар-ығыҙ!	ba	grammar-or-spelling
+587fb2473e1f497a28ea43eaafc49062717282729a63aaf2be7344ba89868704	Туҡта, уның энекәше	ba	different-language
+744d8fcb06538bf87bf34b06373628ecc599a8e7318f96f78ae6ccfee247eac5	Фотоаппарат тотоп, медпунктҡа ниндәйҙер ағай килеп инде.	ba	grammar-or-spelling
+96d2ed3952c1a19255f455b33ab4fa03a9821a116d4711433d057e3961cf6dec	Ҡо- аактары һис ни ишетмәҫ булды	ba	grammar-or-spelling
+98578dd01d5991fb444329b09c103759e55428c243934114c4b4e8487e0b602d	Аҙаҡ Арыҫлан Рәхмәтуллович ҡыуан- н	ba	grammar-or-spelling
+a4d3f0e4b8f57aa1845e27f836a298f6d14bdabd4c330d883a6a7a14552957b3	— Склад мөдирең кереп алып сыҡ	ba	grammar-or-spelling
+9c414921270e61ad1905a13a395504c5cf7d5a95fdd552a7950cb3dabc2a50d4	Элегерәк кеше ло батҡан, тиҙәр	ba	grammar-or-spelling
+aaad4a3b102ae63197cd77da01c11a665222b31ed299449a5ec97c3eed67ae44	— Әтрәгә- мәмдәр ҡыуанһын өсөн, мин баш тартырмын	ba	grammar-or-spelling
+86841a5b0512a9acf5ad2f6f5846f3c7598fd12ee26afbbce516f481bec93e3d	ЦМТыцдмң исеме нисек ине әле?	ba	grammar-or-spelling
+17ecaa88586954c4faf014da916b30f48fa1f672c9cd8a9f14cf0768af579eb3	Булмаҫ та, арттыраһығщыр	ba	grammar-or-spelling
+821a0d8bc4964217c46765c9533e57042dd4d815c6cde3b995e29dbedf93432b	Өфөләге больницала ла йыш ятып Iлйта башланы шикелле	ba	grammar-or-spelling
+ba1223043d3f019c2913e8b8b53cacc078fd5ff8b04cdf214f77f55ec6d19cf3	Хатта ҡыш көнө тип тормай беҙҙе урамға ҡыып сығара ине.	ba	grammar-or-spelling
+a6351953f95711f0d09a95bad8e478da827406d5aa1f575ba47c621afdde16a9	Мәкин профессор тыңламаны	ba	grammar-or-spelling
+bba71aecdd966a3ce0936979a7f494c38432aa24ed9ef7d8f358216c9ab58ddc	ИМЛМИДЫ, чехтар төҙөнө	ba	grammar-or-spelling
+cd437cba9270037a4120114065877517bdc669fd4b24df9b802b8f2271672960	Ә бына Гөлшанды ш аһы атаҡлы Арынбаҫаров булғаны өсөн урлап алып киттеләр	ba	grammar-or-spelling
+947c1bf103d8f6e12ef08e9162b2270043755f7a6917d25fd63e033f22b7cf8a	Мин бит икенсе нәмә хаҡында һорамаҡсы инем	ba	????? ??????.
+a9e33bbd68a12aae0dc2a9917274bdc4cfa3266e8b33fd2be0053b2d981631b2	Бына быныһы мөһим	ba	????? ??????.
+9ce1c88a40be389b8c51f185357b79602e7d40005ab0874f4e58acb02fe212f6	Әле, ултырғысын артҡа этеп ебәреп, усын йөрәгенә баҫты	ba	????? ???.
+934192289f25b9cc7afd4700af851addfbba3cc5462904acdbb2e94f63dff15d	Магазиндарҙа ҡарабойҙай һәм бакалея продукцияһы кәштәләре бүлеү селтәрҙәренең уларҙы ваҡытында тулыландырып өлгөрмәүе сәбәпле бушай.	ba	grammar-or-spelling
+a3efea4867d92bc204556d1244b9fda1256a5c88ae900447167fd23807888b12	— Әле генә килдегеҙме?	ba	????.
+adac6688991f4bd9a34f5255738d94585ae69ea74c13ccffcfee537362efbb6a	Әҙерләп ҡуя- саҡтар	ba	grammar-or-spelling
+a3631317e80ad62fb1885728631b082b9ad0c93a8fc3d1af7e3e805f1d46ffc0	"Балаларыңды хөкүмәткә тапшыр, ә үҙең яңынан ҡатын ал.	ba	grammar-or-spelling
+a99d6985230d6e966891a4c233e06de082ba2c2c89b2606f5092a74251e76b79	— Мәрйәм Ҡәнзәфәровна, Атбатҡан тирәһендә хәҙер техника килеп тулған	ba	????
+a7495a2b773ac2dc488cab399537ad3b6bf8d193eb5297a8ac629c9aba0fc15e	Мәүсилә лә уҙ сиратында ҡул болғаған булды	ba	grammar-or-spelling
+a7edf7cf074bfa11de2ce1dd383a6089f7587e887051ccb52eddd7a6daba2d32	Быны үҙенсә баһалаған Ҡаҙнабаев:	ba	????
+991a162d6d0a4b0c18b77f1c361c59a57ebef966434c83376a4c45a89670f14f	Ул минең кейемемде йыуасаҡ, бүтән йомоштарҙы үтәйәсәк, әйткән ергә йүгереп барасаҡ.	ba	????
+af2753585d045d523621b05804b8ff5d9390535ec2a49ed04cfbaccd6b9992f3	Ғәрсел кнртластың күтәреп һуғып сығып китеүе лә ихтимал	ba	grammar-or-spelling
+999e635e1f333f2bfd73cb36abb083dad8131fb7da6d1eb562de01f33daf35f8	Һеҙҙең өсөн һауыт-һаба йыуырға — әсәйегеҙҙер шул мин.	ba	grammar-or-spelling
+849143969363c25c42aef9e406974afb22bb029b910c44bb7e378090c72ea711	Тәүҙә ҡурҡытып кырандасты и,ша төрттөрөп үтергә булған шикелле	ba	grammar-or-spelling
+a4d3f0e4b8f57aa1845e27f836a298f6d14bdabd4c330d883a6a7a14552957b3	— Склад мөдирең кереп алып сыҡ	ba	grammar-or-spelling
+802fbe36061cd5d583d4d455c8a805f2acf65493b86725aee7bf3a574489bbcf	Беҙҙең ниндәй шарттарҙа йәшәүебеҙҙе, тәрбиә эшенең нисек барышын тикшерәсәктәр.	ba	grammar-or-spelling
+9c414921270e61ad1905a13a395504c5cf7d5a95fdd552a7950cb3dabc2a50d4	Элегерәк кеше ло батҡан, тиҙәр	ba	grammar-or-spelling
+8c868ecd475a69ca7804994301ebd0bc727c4bdf36ae3913963d5f4957b03665	— Әйҙәгеҙ уның был теләгенә ҡаршы килмәйек.	ba	grammar-or-spelling
+a830fc3211d8c8336090e6d71f82fa42ada44f868bb1c9b2ecc2c89a5b4e0e84	Ахмаҡ, тилебәрән орлоғо ашаған, шуны ла шишмаган	ba	offensive-language
+8a60b4992635a381313a335afc25fb65b0d20a8354fa110355278a49c21cf70c	Мәрғүбә листовкаларҙы торба яһап төрөп ҡултыҡ аҫтыпм ҡыҫтырҙы ла ишеккә атланы	ba	grammar-or-spelling
+a3af3d6c19d7cf3b79942b9f364c5a103988b674fe7271b2aed4010641978d4e	Былай һинһеҙ ҙә китә алам ул.	ba	grammar-or-spelling
+afd2748b32c2fc82ef33a5de78ae22061f6c26a1882e7abdbd3be6842363486e	Кемдер уны еңенән тартып ултыртты	ba	grammar-or-spelling
+9eadbbf18ada49f2e8b2c35e59908fa67dacc0b856d16f8a8bbc10a024bcd74d	Ошо хәле Флүрәнс ҡурҡыуға һала ла инде	ba	grammar-or-spelling
+a81640dee812d48826485c209bc88202e3f80a35334c77da1dbc88adbf9013ab	Хәйрулла Ибраһимович, машина янында ята ине	ba	grammar-or-spelling
+8c27b8b4854464c384e2b81a2c6e69d1baec8d4c81de461f9d4b49d37c6dbdc3	Бында тарих үҙе, аҡ балсыҡ шикелле, тормошто паклап, рухи камиллыҡҡа саҡырып тора	ba	difficult-pronounce
+aebf4695f06a4283ac369e061c93e135f0212ff15815eaeb18caaf76c2d9db73	Ошолай уйланып ҡына ултыра ине, елләнеп Харис Яп­ паров килеп инде:	ba	grammar-or-spelling
+a98f74fbc2e94cdca27575311022fb05999c81c85a0dd6b5c3bc9c53768357a3	Римманың сумкаһынан асып сигарет тартып сығарҙы	ba	grammar-or-spelling
+b3018b51471508d0fae1ed17de87c5146188ef6bb2ea54b1de1a6e08dbe62af6	Тиҙотте, иҙеүҙәрен элде	ba	grammar-or-spelling
+d63b4ef57738c09423ad21f1a5764a0acef5b7411c6cd5ae5289d894b3c3b65d	Арыҫлан Рәхмәтул- аович тәрән итеп һулыш алды ла телефонға килде	ba	grammar-or-spelling
+cb82885b6a7e5de736bd09c34bbcb4dd820d407af9eef1d734751faf5f7ba642	Мине көндөҙ эҙлән таба алмаҫһың	ba	grammar-or-spelling
+c72317b07f67eb0802778477da8b032dceea65c433a61f562ee8952a2f021e61	Ҡапыл моңһоу күҙҙәрен әҙгә генә күтәреп, Ҡаҙнабаевка ҙ	ba	grammar-or-spelling
+d312db33202b1f866264406d81c2103433155129d560eb5f60b8d39e4320c578	Шым ғына бәхетле ш	ba	grammar-or-spelling
+d700367c3232c6968ae3d7bc284ea3e547eeb5f3af48b2af845d89d711191aa8	Ҡулын болғаньҙ, профессор ҙа уға яуап бирҙе	ba	grammar-or-spelling
+d1556a447a46df3ee16820b3abbe8f3fe037d9608af230e1d0a8a8a10fa726c0	Димде шла сығырға кәрәк	ba	grammar-or-spelling
+e2fb8758892c73c33955158201b529097b4e31956554b0d10b2d56641bc8f349	Илле мең аҙ лкса түгел	ba	grammar-or-spelling
+e6a088db2822f4159f69e2cb74958598bd2e9464d56fe443650d531f90812b23	Янында торгам биҙрәне тиҙерәк шишмә һыуына сумырҙы	ba	grammar-or-spelling
+df403f2aa1a1dc1a2272bd0de498e8d690ec92b4e3445a502a906b16a9afcd66	Иғтибарлыраҡ ҡараһа, алғы рәттәрҙә баяғы таныш ир троп баҫҡан	ba	grammar-or-spelling
+d536a3c99e42a50b320af31d5d1a472e5bb633cd6fdf3553fc9c2e18016fc8b3	Әлбиттә,- әлкә комитет ышаныс күрһәтһә	ba	grammar-or-spelling
+e0d587396d1056c91e585db43ff57c0cc46f056c2db85c4ebe65d18457eac2f7	Беҙҙең округка иквд вуз эләгә	ba	grammar-or-spelling
+f5714a7be2d782ef4577b22f092560415f41fa1cb9895a8f5ba13a86c3c0fd07	Мин фаразлағаң матдә шуға стимул да буласаҡ	ba	grammar-or-spelling
+e15170ecc6e2ada0118dd73f490cdd307947916b958376eaf324c26730cde477	Бөтә кеше әле уларға иғтибар итә ине, быны Әлфиә лә һиҙә	ba	grammar-or-spelling
+e9c86088c6821e2499afb3941bc393f8b7bb3c55e95e97dd249ec45649f40ad6	Шаҙра сәхңәгә төртөп күрһәтте:	ba	grammar-or-spelling
+cee43a6ab2f0b726e98f892dafc2a65454bcde5fb8bfd3479519aea2cf2404a7	Етмәһә, үҙенә орден бирҙек, бынан һуң инде уның дошмандары бермә-бер арт- I ты	ba	grammar-or-spelling
+d283a8fdaee865ea2aa0edab1aaae63180d4c3ec805b7b97f2cfc5b417cfdc98	Тал араларында нпш гар сырҡылдаша	ba	grammar-or-spelling
+f3a2ff365d0c3ec24548837c1a8c7911620db150bf4e6831019ef80aaa5685ce	Шулар рәтендә республиканың берҙән- оср ҙур больницаһының берҙән-бер баш врачы ла көтә	ba	grammar-or-spelling
+fc65c57e1922a5be2b391edd9d7a2072436028cece44697dfc348e95e845e965	М пәнә Гөлшанға баҡты:	ba	grammar-or-spelling
+01ef9ac90a265e30d3f3288c21aed08c8f07c1f9ab922687d41caa85befd8065	Айбулат килеп ингәндә, Мурзин олоҫ өйөндә ине инде.	ba	grammar-or-spelling
+07724aa5e6eba10c2213d2d43b890bd4f186bde7ad7f50636401d78d9efee40a	Ҡатының... килен дә йәш түге.	ba	grammar-or-spelling
+05e5f9e6a14b8933aa28b61842279ec02509a81ef4753a4763b34332d849cf36	У, бахыр, бер ҙә алдай белмәй ҙә у!	ba	grammar-or-spelling
+04d05351ef092d008f7119cbabfcf7bda4f2f5f74be370a72411973c35f84d1d	Хашимды бикләгән кешеләрҙе карғаны, Хоҙайҙан Мәҙинәгә балаһы хаҡына ғүмер һораны.	ba	grammar-or-spelling
+0447257894ff2633fb84d4e27889eb5ec6142b58ac30f74453fd575f3f1aa8eb	Икенсегә, бөтөнләйгә етем итте был кеше Әптеләхәт ге...	ba	grammar-or-spelling
+088157559e63ad65cee91012038e78e7b7d1b44812613ff4a3e45d6cac235e42	Шәңгәрәй ул саҡта шайтан кәзәләргә лә, Саяфҡа ла - тох!	ba	grammar-or-spelling
+1efe60432c75fed9ca257534f40223adb2474497232d4ca60d18fbb281592e11	Әйҙә оҙаҡҡараҡ һуҙылһын ейәнсәренең бала сагы, ғәмһеҙ көндәре, тыныс йоҡолары.	ba	grammar-or-spelling
+1fb1b0ed39c431b25265583139a6087c9551bd55763a49cf44f13841fd20014e	Үҙҙәренең малына ғына алһалар, ни асыу - һатып әсәләр, аоаҡыға алмашалар...	ba	grammar-or-spelling
+1f60f8064154679e730e3e3339086603cf7d2ff240256d129268076114b753d8	- Миндә... ниндәй йомошоң?	ba	grammar-or-spelling
+1e39cd9e68872e6dc41318803a45fd1b42499796fcc5a36fdf0c03c109018937	Ошо... балнис аласығынмы?!	ba	grammar-or-spelling
+1f05c6d81b0c8cd0767cc62eb0fb7bd95ba738fff56deec24ea06ac860d9f42b	Ул ауылда һинен бер ниндәй зат-зәүерең юҡ.	ba	grammar-or-spelling
+2109f3dd87c38dc59c9f62971cefd2485f7ed842828e838fffd1a6226b290d38	Быйма ла баҫтылар, самауыр- ҡомған, күр-ер яманылар.	ba	grammar-or-spelling
+2d49b57ba5926934670f240bed1d4087f71f406e1320b073203488e86bbd0d6d	Мирхәйҙәровты ул тайсаһы эсендәге олатаһынан ҡашан кес кенә өйөндә китап тотоп ултырған хәлендә осратты.	ba	grammar-or-spelling
+277dff23cc24f4aa80751c72c9481f5ce80466053b930c035eae7d4820b5bd62	Ә ни өсөн ул, ҡаршылыҡтарға ҡарап тормайынса, һеҙгә ярҙам итте икән?	ba	grammar-or-spelling
+2e3bb7f35b6f96e386accc3abcdc3f29ae2e375f7b4000cf383ae3c71b81f45d	Һүҙ ошо урында өҙөлә.	ba	offensive-language
+2e3bb7f35b6f96e386accc3abcdc3f29ae2e375f7b4000cf383ae3c71b81f45d	Һүҙ ошо урында өҙөлә.	ba	grammar-or-spelling
+2e3bb7f35b6f96e386accc3abcdc3f29ae2e375f7b4000cf383ae3c71b81f45d	Һүҙ ошо урында өҙөлә.	ba	difficult-pronounce
+2e3bb7f35b6f96e386accc3abcdc3f29ae2e375f7b4000cf383ae3c71b81f45d	Һүҙ ошо урында өҙөлә.	ba	different-language
+2e3bb7f35b6f96e386accc3abcdc3f29ae2e375f7b4000cf383ae3c71b81f45d	Һүҙ ошо урында өҙөлә.	ba	????
+2acb6f1325c8e7be4c41904801c6c8b2f3d776ae5e99b76de787c9f544c1834f	Стажым етерлек - етерме алты йыл.	ba	??????? ?? ?????? ?? ???????
+32177e66a9e9ddafcf2e7808bccc6ac87db6a4088aeb4ed9bdbdc04b7f33d1d5	Үҙ-үҙен белгәндән бирле Шафиҡ еҙнәһен атай урынына күргән Мәликә баҙаны.	ba	difficult-pronounce
+32177e66a9e9ddafcf2e7808bccc6ac87db6a4088aeb4ed9bdbdc04b7f33d1d5	Үҙ-үҙен белгәндән бирле Шафиҡ еҙнәһен атай урынына күргән Мәликә баҙаны.	ba	offensive-language
+32177e66a9e9ddafcf2e7808bccc6ac87db6a4088aeb4ed9bdbdc04b7f33d1d5	Үҙ-үҙен белгәндән бирле Шафиҡ еҙнәһен атай урынына күргән Мәликә баҙаны.	ba	grammar-or-spelling
+32177e66a9e9ddafcf2e7808bccc6ac87db6a4088aeb4ed9bdbdc04b7f33d1d5	Үҙ-үҙен белгәндән бирле Шафиҡ еҙнәһен атай урынына күргән Мәликә баҙаны.	ba	different-language
+311c3798bddf06e2cabe2e99bf71ccfe6db0e5746abdf397f9b755e1dc82cc8d	Ул, елпелдәп, йығылырға теләмәгән һымаҡ, бөгөлөп-бөгөлөп һүнде.	ba	offensive-language
+2f87462dfe4b8a196d5e1d1d4e3385878ff8d6af059419323af0f924941fedf4	Унан һуң, һин Нитерға киткәс, бик эсе боша ине.	ba	grammar-or-spelling
+30276f6c6eae25de74df7121f9ea5c5e260c4a7387ed943a84703f1496e747bd	Шәп булғасың, ана, кәләштәрең менән уйна!	ba	grammar-or-spelling
+2d7d202a750ecd5decb5a7aa2753d9ecde46f74d30343e9a679dc6ed76f26ea2	Туған илдин айырылған, ай, ҡыйын икән	ba	grammar-or-spelling
+341ad1b9dfbb381c7e3f9ed98db0b03ad2eab6ca6b6e1c607f731be2a8e87e2d	Айбулат, һиңә уҡырға бик ихлас бирә инде ул.	ba	difficult-pronounce
+31e3f66cb6086b26ea93824edaf5d55c64d2a42b9c8ccf1ee8ce51edd1b559c9	Зар илайҙыр ауыл карттары...	ba	grammar-or-spelling
+2bc886babb330227ba4f9d95c5892e189230edd02553e9026fe6ea77f71efce4	— Ошо тиклем алйоттарса сәй әсеүҙе ғүмеремдә лә күргәнем юҡ ине!	ba	grammar-or-spelling
+3d07bac3dc3dec7189883b4d0a50094f738324eb973539638a527e0207f59a66	Аҡбуҙ аткайыма — дилбегә.	ba	??????? ?????? ?????? ??????? ??? 
+3d9058d2312f0991dfa585a5b03fb2dec0c4cc009f92d15bbd0e2aaf247718d3	- Көндөҙ бушап булманы.	ba	grammar-or-spelling
+3e0da93f8e88f4c0de202229b0693dc0c46723798be5cae308c9642e55a8574b	Үҙҙәре һимеҙ иткә, көслө ҡымыҙға иҫереп, баштары иҫәңкеп әлһерәгәндәр.	ba	different-language
+41b7a0262a1715320eabb6748e835679e05436a074796c34b04b7b55504dded2	—Һәр хәлдә мин быны шулай атайым.	ba	???????? ????? ????? ?????? ?????? ?????? ?????? ???????? 
+446971098994f435b49fccc8e4d6c67224dd42523744fd62b7b7bc29afe89e4e	Байбисә хәл итте һәм шунда уҡ юҡҡа сыҡты.	ba	??? ???????? ????????
+46ee91bbf4d3559e30b6d6f4e5ecacce0c455037c2231635ab2654ef2e408fbf	Ни теле барып шулайтып баланы әрләмәк кәрәк.	ba	grammar-or-spelling
+4225eab09cea28b6f401f595813a7255c6f4d78c114fe30c1a38a47bf0db5b71	Гөлбаныу үҙе атлай, үҙе йылмая.	ba	difficult-pronounce
+4812b6cca2fbf7620ae125554d73fd06b98e2bdd3f0427210702c37dbf396a06	Атаһы Моратов Ихсанбай тип яҙылған ҡағыҙҙа әсәһе ул, Сәбилә.	ba	offensive-language
+4812b6cca2fbf7620ae125554d73fd06b98e2bdd3f0427210702c37dbf396a06	Атаһы Моратов Ихсанбай тип яҙылған ҡағыҙҙа әсәһе ул, Сәбилә.	ba	grammar-or-spelling
+482ce9258873731562ed11449f7d9e406dc77129cdfa2cbdc6233bb3466a99e9	Ә был... центер ярым ит.	ba	grammar-or-spelling
+47d4828df85a908377262b977e020a043b086e703cfbfb175d8c1572ed5e2f89	Ире менән ике араларында бер ҙә татыуһызлыҡ һиҙелмәй.	ba	grammar-or-spelling
+482ce9258873731562ed11449f7d9e406dc77129cdfa2cbdc6233bb3466a99e9	Ә был... центер ярым ит.	ba	grammar-or-spelling
+4041de88bf748ddfb554040f9f3ab8bbc6c7cf0f5fafd84895da974c25b6a3ed	Исек ярығынан ҡарап торҙом!	ba	grammar-or-spelling
+443b59b69d415374e90d7abc3383fcdfec089de8d3541b778014e6eb4380f9c7	Айбулаттың сәй кәрәкмәй, рәхмәт, тип уларҙы тыйырға тырышыуына улар иғтибар итмәнеләр.	ba	grammar-or-spelling
+41c1edf6dbbcbdfd045832ca1cb33073a2ca6205061f136991410f1c227cd98d	Исегендин алдына су сибеп ҡуй	ba	different-language
+4840a23eab71b1f6ca38936d3f38c84d2ac06381330eac6006faea954704ff99	Хатта урамда осраған балаһының йәшенә тап килерҙәй һәр балаға текләп ҡарар булып китте.	ba	different-language
+4adc0cac9e291c580f9a458639e512b7aea1c94d9bbd853b658498cb30d15445	Туплау ерҙәре, бейек өйәнкеләр яһаған күләгә - барыһы ла үҙенә саҡырғандай.	ba	?????????? ?????? ????? ?????? ????????,??????? ????? ??????
+4b43e761a0cc48807ad952752ff7b8accd14c1f582d0890d222c88ffcff5611c	Ә таңғы биштәрҙә уға ат, күсер биреп, пристангә төшөрҙөләр.	ba	offensive-language
+45e110a2c189b9bce2af621b618e87d0299aed822c830de3d8db5508d72a86af	Г?иш бажаны бер бүре ашаған һымаҡ, улар бер-береһенең боғаҙына йәбешәсәк!	ba	grammar-or-spelling
+4fc20e9e2f13f39cd313625a227dc5fa8c07473c35b2a0a13dc0541a1e788309	Инде йоҡоға киттем тигәндә, ҡыуыш алдында өэөлдәп баҡырған тауыш ишетелде.	ba	grammar-or-spelling
+50fe3848039e2bbb0b63d9e851fcc3d7c863e90ccc923bda0df02bc1171ca37c	Камалетдинов өйөнә төрлө уйҙар ҡойононда ҡайтты.	ba	difficult-pronounce
+54b5436bff36fabbe757b414e67abba84f409c46fec0adc368e679c6e45e835e	Меңләгән ҡыҙылгвардееңтарҙың ҡурҡыу белмәҫ йөрәктәре, йөҙҙәренә сыҡҡан батырлыҡтары менән Петроград, Кавказдағы һуғыштары артта ҡалғандар...	ba	grammar-or-spelling
+542bc78075107e3e788cb0df41fc3f0229fca23353a4b5c4b19cd7390674e633	Һиңә лә китергә тура килер, Ғәлимә Мөхәрпәмовна.	ba	difficult-pronounce
+542bc78075107e3e788cb0df41fc3f0229fca23353a4b5c4b19cd7390674e633	Һиңә лә китергә тура килер, Ғәлимә Мөхәрпәмовна.	ba	grammar-or-spelling
+4a4b760c35b53a8ef25b6bce55e6c8bd20d93206c7c175f19bcf988e9682e347	Ҡорһағың асҡаҡлап йөрөгәндә таман булғандыр.	ba	grammar-or-spelling
+581f2f1b5c5900970200dca7577035143e5120decf3ba455493689ef6b19a619	Оло ҡатындарҙың береһе- бер ауырыу тураһында Мәҙинәгә һүҙ ҡатмай, йәнәһе, кәрәк булһа, үҙе һөйләр.	ba	offensive-language
+5e2dfba500971113be1d348c9b2e3d97b9942cf08e41f385015426cab432a253	Ул кис Гөлйөҙөм уның ҡосагында өнһөҙ һығылып иланы.	ba	grammar-or-spelling
+6112f22dba950ddb2be8a9760b4c95cf2f51152106f8cd6552dd9d40f365defe	Башҡорт телен дә моңло тел, тиҙәр бит.	ba	difficult-pronounce
+648b50faa6c402ee44a482089c6957a9e95c3fdd64755c21482994a8866f4553	Кемдәндер үс алғыһы, кемгәлер ҡыйынлыҡ килтергеһе килде.	ba	difficult-pronounce
+5f9b50d23f38b6f3c0ea7db9cb94eabe54aaf16cddc899f37952e097901a8339	Айбулат уға торорға ярҙамлашып арҡаһынан ҡалҡытты ла, ике ҡуллап күрешеп:	ba	offensive-language
+637354e28550758665465b10663b99ee96d35d2a6c2b9c36966f4f1c2e29f477	Берәүҙәр уны ҡайтып килгәнендә поездан быраҡтырғандар, шунан шулай булып ҡалған, тиҙәр.	ba	offensive-language
+6442508594250fe2fa8eddf2fa8de1f6f4d33a7307493f2197f3e1abdcc78315	— Вася, улар ул бик күп аҡсаны ҡайҙан, нисек йыйып бөтәләр икән, ә?	ba	offensive-language
+643297cc69fa9405b0cc91e15974648660d009692cf8b31434ee992372dfc6bf	Ә хәҙер тағы бер аңлатма яҙығыҙ.	ba	offensive-language
+5cc38013586c84a7090e1a99a257e272bcd35391174f37de3856c2f1f66fe245	— Юлия Ивановкаға бында ҡалырға һис ярамай, беҙ уны ла алып китәбеҙ, — тип өҫтәне Ҡотлояр.	ba	grammar-or-spelling
+65ca6cb94922612a75aafeda8ea7fc51dee8a36529ffd80bfcc95456883b9e0c	Быймалы гауышын көрәйтә, кәүҙәһен турайта биреп, йәнә юлдаштарына боролдо:	ba	grammar-or-spelling
+6b336b33f1e304649b0221bf3180145f89301403ff67857e8333cdce109c4448	Мәҙинә үҙендә иҙәндән гүгел, ерҙән тамырланып үҫеп сыҡҡандағылай көс тойҙо:	ba	grammar-or-spelling
+71e128a9f4bc492ba232507c943c764dd8428c4548d3fcc374bcadb66166e087	Сәйҙән ысҡындыра башлағанда көҙгөлә өләсәһенең йөҙө сағылды.	ba	different-language
+732764883c60f26972e2f1086f0546f6fe84883696fd27860d5b2bba091911c7	Күкһылыуҙың йөҙө ап-аҡ, маңлайынан һалҡын гир бәреп сыҡты.	ba	grammar-or-spelling
+65ca6cb94922612a75aafeda8ea7fc51dee8a36529ffd80bfcc95456883b9e0c	Быймалы гауышын көрәйтә, кәүҙәһен турайта биреп, йәнә юлдаштарына боролдо:	ba	grammar-or-spelling
+803da5b05e7c7089b4025329a4d9ecfd51938765dfa6c21595e51efed0f53921	Әйе, уның кинйәкәүе инде кейәүгә бирерлек булып килә - ғүмер үтмәй тиген инде шунан...	ba	grammar-or-spelling
+833b69d720f0959ae8f83ded3cf6b419bdebec64038ff242a98f6423c683943c	Улар ошолай итеп ҡуҙғалышмай оҙаҡ ныҡышып ултырғас, по- да түҙеме бөттө.	ba	grammar-or-spelling
+83cf7919b66170338e42dc63ee06038a7b65f491ef006d0aa300dc63eed0ec06	Улар үҙ балаһын һөйөүҙөн мөхрүм, бала һөйөүенән мәхрүм.	ba	grammar-or-spelling
+7e985a50cc851670b1cea52f1cdd9c0d0498bad651d4fdd08538caa32c92b0a5	— Синең менән мәғән көтөүҙә чыбырткы, бас шурпасы да муйын сөйәге ҡуй!	ba	different-language
+82194889fef2dcc9a1cfe233a8ca07fe84d6d2fac9411d3aad4a11b244318b9a	Әммә һинең әйткәнендә лә хаҡлыҡ юҡ түгел.	ba	grammar-or-spelling
+830c9463bea08f482c7e8b3ccb61b527638eeb47e1a23522c1c9c531fe4a101f	Төндә килеп баҫып, ҡыҙ һорау йолаһын күргәнем юҡ илла!	ba	grammar-or-spelling
+861f7b4e2f9d1728f7a4bcd5a43129fe22bccb3b252cb0005543a34f20c56f56	- Лидия Никозаевна тороп, ишекле-түрле йөрөп алды.	ba	grammar-or-spelling
+7da4bbb3b8fa77d905884f3e57aed0667a9d3bcf6f4269879d13bd172e2c71fc	- Хөсәйен теш араһынан сырт төкөрҙө: - Ул пизди!	ba	grammar-or-spelling
+884448ff5287e4c0bd501e18c49cddc6692adda72911e6ac6afe18e47ea502f6	Пристав уға текләне, өндәшмәне.	ba	difficult-pronounce
+87973b5baace1aa44f5e53c086268c39b17e70d8d067648c0127dcd8423f4638	Кашҡа сифатлы малай ошонда ғына, эргәлә генә кеүек...	ba	grammar-or-spelling
+86d963b7d6da79c219c7e9b5adc30f023bf3361294ed8c26b62dab4c91c4b3b8	Ситтән кигән берәүгә мында ир әҙерҙәп ҡуялар тиһеңме?	ba	grammar-or-spelling
+889d4cf93e2a10a1a0ab97009982c4fbe12182897d6eae624db5e43cbf7b3644	Ҡыраулы һапҡын кис.	ba	grammar-or-spelling
+7dee429b119d580e2e0e7c1040bd00cbef2ae4ba7286ebfb160c7242db54a96b	Исмәғил менән Хөсәйен эске урамға төшкәндә, Тимерғәле ағай, уныя, оло улы һалдат Исхаҡ осранылар.	ba	grammar-or-spelling
+89a271318df5f6ab8762131958a6c26a8109861d1daeb6567d56471736416495	- Мәҙинә тотлоҡто һәм йәнә йәшкә тулған күҙҙәрен Әҙелғужинаға күтәрҙе.	ba	??????????? ????? ????? ?????? ???? ?????????, ???????????   ??? ???????
+86d963b7d6da79c219c7e9b5adc30f023bf3361294ed8c26b62dab4c91c4b3b8	Ситтән кигән берәүгә мында ир әҙерҙәп ҡуялар тиһеңме?	ba	offensive-language
+8b95ee1458dd590b9ac014e42a907d9c76cef311ba341f0f62e855584bbc3ee1	— Ярай, балалар, бөтөрә һалайыҡ.	ba	??? ???????? ????????? ????????? ???? ???????
+898db3ed76137468abb78f1002a2bdb00f5153253f4c337e2d2bc3f9e1766a6d	Шунан бик эре генә ҡиәфәт менән башын арт-ҡараҡ саңҡайта биреп:	ba	grammar-or-spelling
+898db3ed76137468abb78f1002a2bdb00f5153253f4c337e2d2bc3f9e1766a6d	Шунан бик эре генә ҡиәфәт менән башын арт-ҡараҡ саңҡайта биреп:	ba	difficult-pronounce
+9562880cbe41196eebb02b42c89066c83788b076abfac1f22ef908b961cfdb0c	Иҙәнеңде, керенде йыуырмын...	ba	grammar-or-spelling
+93b6dec0a57e017589535553a0710b5b6b1c1d84a32ee76b78d7a014b1bbff46	— Конда ун дүрт һум, малайҙар, бирегеҙ уны, — тине.	ba	grammar-or-spelling
+926ff60d84286fadac13b40c5c3379e1c298ca39bc6f207d6a71df7cf90d12da	Беҙҙең тирмәлә карындык ишек - Һаҡ менән Суктың бәйетен ишет...	ba	grammar-or-spelling
+977fe3208d5ea07febfa35a97946f84fc33ca6f1757373336e4c8bc77e995519	Беләһеңдер, Мәҙинәнен хорына йөрөнөм мин...	ba	grammar-or-spelling
+9826dad13bd98927e633bfeacdcad149acecfc5c3d736da221a40ba29bc520a2	Музыка коралдарында уйнай белгән кешеләрҙең өйҙәренә йөрөп сыҡты.	ba	grammar-or-spelling
+94d4ae8d2bf95d7406e2e6af9f1389160d88a089440e3be5a35d14568ccefd12	—- Хәҙергә власта буржуйҙар, улар герман һуғышын туҡтатмасҡа уйлайҙар.	ba	grammar-or-spelling
+95b22db47747a5b1bf653da935be8be48dbe46c0e1d13410cff887a19b2880ba	Әсәйендең йәше ниңә кәрәк булды, ҡыҙым?	ba	grammar-or-spelling
+9562880cbe41196eebb02b42c89066c83788b076abfac1f22ef908b961cfdb0c	Иҙәнеңде, керенде йыуырмын...	ba	grammar-or-spelling
+967f2631ae2ff9097a7ea8b0bc6c1498171df855ee07af12d586b71eb4e21c18	Мин үзем дә сул яҡтамын.	ba	grammar-or-spelling
+93cab843faadc7a73242a649d234fbb2d4be258bc23847ad9515e5c7f3901357	Иссу нишек!	ba	grammar-or-spelling
+977fe3208d5ea07febfa35a97946f84fc33ca6f1757373336e4c8bc77e995519	Беләһеңдер, Мәҙинәнен хорына йөрөнөм мин...	ba	grammar-or-spelling
+4c06a95dd169f48bce235c70bb5a5ee49a8477dabfdc98ca1b6e17151b4f4062	Бына мине нигә баҫтырмай?	ba	grammar-or-spelling
+a5b91b40609f607ec70b56afa10d1e24d33f1053f84e470ccbbc1cf8937bb999	Сунан ул Чаған суы буйындағы Кузьмин утарында хәлсезләнеп жатҡан чағында уны үлгән хәбәре чыҡты.	ba	grammar-or-spelling
+ac9c00dffed66da263b44d733beed5aa19a8e34cf35e7758d13c15982dc3d65e	Һинең кара ҡашыңа.	ba	grammar-or-spelling
+ad3a63a2354b3a12c89cd599a27718773c646f12f2cd52cce744412e20bfb47c	Ҡыҙрасов уның алдына графиндан һыу тултырып стакан куйҙы:	ba	grammar-or-spelling
+ab94ec21a2f4304958d591097ca0a5ca91dd77c52750ccf25a48a83c68c5e6df	Атандың даны һиңә булмаҫ, сатандың саңы һиңә ҡунмаҫ!	ba	grammar-or-spelling
+af2bc1bd5b32272a112cb6554812467a011e427b39753feaf1ae0f9dd041f395	Әллә, балки, һуғыштар туҡтап китһә, әйләнеп ҡайтып та килер.	ba	grammar-or-spelling
+a03782c9f76b89ea06fa233cbebd4fdee5fdc57fe2daf21d11dd83a6fecf16fb	Ауылдашының бик ҡәнәғәт тороуына ҡарап, көлөргә ярай икәнен төшөнөн, пырх итеп көлөп ебәрҙе.	ba	grammar-or-spelling
+889d4cf93e2a10a1a0ab97009982c4fbe12182897d6eae624db5e43cbf7b3644	Ҡыраулы һапҡын кис.	ba	grammar-or-spelling
+8b99f83748ccdef1a2acb78ba63b47bbecc2e6043baf00fcbdb1688eae46f7e1	Бахыр Шәңгәрәйендән эт яһап ҡуйғандар ҙа уйнашҡа керешкәндәр, мин һиңә әйтәйем!	ba	grammar-or-spelling
+8bc2f3f98e11947bd6499174b796182d8b7a4bcb4baeaacd60f9ea8679bbfcb9	В борьбе за это.	ba	different-language
+8e34b270bd622ce500c14921bfdbfab24b9a9b12d626b10fd2538c6b446c1f82	Ыстурия бит у!	ba	grammar-or-spelling
+0765b9ef629429432f60ab5a63f62085701f03a284024f839813d0ce0db54e39	Малайҙарҙың ғәрлеге эҫтәренә һыймай ине.	ba	grammar-or-spelling
+3d14f1593f392a9fbe1a38b062e5fa6ad871a5e524fbfb9ef55e2f2e6e05c241	Эле генә ҡуҡрайып баҫып торған Вәзир ҡапыл бөршәйеп ҡалды.	ba	grammar-or-spelling
+3f8d9335078ac6db0b1c4e1190c5190b9c4a7ea93a70594d1d07bbcd654737de	Өҫөгөҙҙө лә индерә алмайым.	ba	grammar-or-spelling
+b30a4a9788a4cf3beba4876d357d678f11b29ca4aeee3ebdb4f8c6d5d7567e3f	Бик яҡын кешеңә күңелендә ҡаты рәнйеш һаҡлайһың...	ba	grammar-or-spelling
+b1e2d162c909334df33c6cbb4bf639b632d8d93ef7eabfcbf5c6dfae5f5d3d95	— Тағы ла санитар поезы менән Эстрханға оҙатҡайнылар.	ba	grammar-or-spelling
+5683f0b29eb650522352ae548345e628ae8a919a3252c37afd3f45ca01b84872	- Ьинең өсөн бөтәһе лә хәйлә инде.	ba	grammar-or-spelling
+57dda63e48fc5deda247fd4fbb58cd3459e0e3f9ab916ebeb71a8ca2c86a9360	- Һалығыҙ малайҙы кырандасҡа, - тине.	ba	grammar-or-spelling
+479acffc9b74ebfcc9b83df97ad8752f7073841a131ed19599f7c5b2be75ac77	Ә меҫкен булыу уга шул тиклем ауыр ине.	ba	grammar-or-spelling
+7ceeb281efce08288611d428d31991b40bba6d31a3a413eb261367edc61267fb	Ниңә бер уға гына бөтәһе лә тиҫкәре килеп тора икән?	ba	grammar-or-spelling
+6a195ab5ae9ff848557c3a3a7937234dc4f7829cec6a1801bccd9a8101b4c373	Врач уның тамагын, күҙҙәрен ҡараны, ятҡырып ҡорһағын ҡапшаны.	ba	grammar-or-spelling
+aca2b71b7031d7917475d607551ee050282dab2bb7eeb3ff866ff74f7eee85bc	Ҡарсыҡтың кулға алыныуын ишеткәс, Ғәлимәнең шатлығының сиге булманы.	ba	grammar-or-spelling
+94b3ca8bb1148f74721a4a6e5ae52a1da7fbc166fd91e40fda6a31d12d68bef7	Хәҙер малайҙарҙың өй эҫтәренә к үҙ һалайыҡ.	ba	grammar-or-spelling
+b813ea1a9f787c2c6789b22577b5f60f8da85eed58f3d1ccb6181152fb2f6eba	- Һеңдем, - тине ул илауҙан ҡыҙарған күҙҙәрен яулыҡ осо менән ҡоротоп, - һине беләм мин.	ba	grammar-or-spelling
+b87b369c34c5c98fc0ba4fefb0002169c8c1c0bf9342833f1a9b55b3cf3d3c8e	Ҡара тандан торһа ла, Мәҙинә һыйырҙарын иң һуңғы булып һауып бөттө.	ba	grammar-or-spelling
+b92594928e7f7c50839f03991be33eb8fea1bb71d56312d3df46ba44ce4daa22	«Төшөндө кешегә һөйләмә, кеше мәскәй кеүек - гел яманға юрар», - ти торғайны өләсәһе.	ba	grammar-or-spelling
+bfe0ea2a809540e110249928bad9a8c28b7b977d578eee3a3090705d738a77e6	Нимәгә минең ҡыҙым тураһында һоращаһың?	ba	grammar-or-spelling
+c3e585bc8adfa49291d6b8a74973fb6e6e0dfc7130519b0a6db77347c7fc2a9e	Ҡыҙрасов Сәмәрәнең кулдарынан үбә:	ba	grammar-or-spelling
+cf059a9b63fb7f1877c5767e299fb7c835eefd9303929a6d428cfe23b8d1e8bb	Беләм, сөнки һинең урынында мин дә көтөр инем.	ba	grammar-or-spelling
+cf04acc51093ae68ad41c9c06c7c202a9dbf2044e4a8dfc75399d639f2b20296	Ҡатын-ҡыҙҙар, ирҙәрегеҙҙе хөрмәтләгеҙ, яратыҙыҙ, игәмәгеҙ.	ba	grammar-or-spelling
+cfefd88c1f049b22061c2f4e4df9587566d77304196994fc0129ad57523806d6	Шәрифулла, һаҡ ҡына алып, Ғабдулланы төбөнә йомшаҡ бесән түшәлгән кырандасҡа илтеп һалды.	ba	grammar-or-spelling
+d0a371168b43f5ef9756d2b37cf4809157fdd5896d5039f0579d10ee6e54f3b4	Күрәпең, элекке хужаһын, кәшәнә эсендәге Мөғлифә баҡшы һөйәктәрен ташлап китергә көсө етмәне.	ba	grammar-or-spelling
+e1bb196a6d7c3841c1a110fff90a2c7cefb36b1f17e5df356c5662d1c6dc5ce8	Тышта буран олой, эсенде аслыҡ тырнай!	ba	grammar-or-spelling
+d0cedaef5e60bb14b894eaff00301e94c8308b7bd79f3877014bc1d56242567e	Сәлимә шулай зарлана-зарлана лә күҙенә эркелгән йәштәрен яулыҡ осо менән һөртөп ала торғайны.	ba	grammar-or-spelling
+e0700f7af58c6c7e6e07f8f52c5d2a73664a21e86693e0cc376202d45b69b090	Мин һаран баҡа түге.	ba	grammar-or-spelling
+e67dbf3955cce5fe60dd5dbba3b8b273772acbe72bab6b33fe45800c8e70fbe7	Тотҡан ерҙән һындыра Оҙаҡ түгел эш боҙоу.	ba	grammar-or-spelling
+e3f1d8d08dc4e58579735c1930d3fbb75edfe0aa0a532dd1f9d954410946bfd4	Беҙ оҙаҡламай уларды табып алырбыҙ.	ba	grammar-or-spelling
+e90998ad3a4a090decde65820f59b8d10c4430ce6bda998d9d9346e704c75624	Был ҡыутомшоҡ Күкбүре, йәне йәһәннәмгә олаҡҡыры, Ишмәмәтте итәки ғәйепте итә бит!	ba	grammar-or-spelling
+e8804e1c0f86253c28bd6a2c89b85a4c144a49098c114bd2d32898e701304b03	Күктә һуғыс бара, суны ҡарайым.	ba	grammar-or-spelling
+efd29b10ca33086821fa92b67bccee98c6bb3d901f45cffc4264c3b7e3ca56fe	Үҙе нигә мине баҫтыра?!	ba	grammar-or-spelling
+ee320dbd232b896e36303d4620c91cc408f6dc39430c476595fe81a98c06be6f	Бөтә матурлығын, һөймэлеклелеген балаларына биргәндәй, һәр сабыйын тапҡан һайын үҙе ябыҡты, ҡоро һөлдәгә ҡалды.	ba	grammar-or-spelling
+ed3e930f1a07ee008a465b2a657f47b719f820f93be7217b599e36575dae8db7	— Ай, шырағым, ҡаҙаҡ баласы буласыңбы? — тип һораны.	ba	grammar-or-spelling
+f448dcdf4cee2d48cb6de2c076188d62f0dbfa0badbaeab2cc118516b110b6f8	Теге сыбар тауыҡ ун ике себеш сығарҙы.	ba	????? ???????? ???????? ??. ???? ??? ?? ????? ???????.????? ?????? ????,? ?????? ???????.????? ?????
+f743ae935103709682484344ab034b8c141c7128ddc3c808c4c7bb6a1c0e61e8	- Мәҙинәгә ҡарсыҡтың һорауы берәшәнерәк бирелгәндәй тойолдо.	ba	different-language
+0090df3b5ed0ac9845cb84bcf8931faf27dfb384f5625cba1381a7bdb95b8e74	Ьеҙгә кино күрһәтәсәктәр.	ba	grammar-or-spelling
+f88d9b731e9a529a8c5bed1636772a11f7ace69e4665e2f10d39035778e19b19	Аты Сарсынбай, белмәсмесең?	ba	difficult-pronunciation
+06c1955bf7fc256a1020f3a7ee5d084e880189c6d838203ff342acb5350f1b4c	Әкиәтме?	ba	grammar-or-spelling
+1c1ad41520fae512f8bd56e62ab21774f5b4b5852b03837ac4774203d928e2e6	— Ул шулай һөйләп аңғартып, алған нәмәләренең уңын-тискәреһен әйләндерҙе.	ba	grammar-or-spelling
+1c1ad41520fae512f8bd56e62ab21774f5b4b5852b03837ac4774203d928e2e6	— Ул шулай һөйләп аңғартып, алған нәмәләренең уңын-тискәреһен әйләндерҙе.	ba	grammar-or-spelling
+1d7ae65ec3c5ed323faf42cdda23bc723ebff8581e853d28e50a08991c676fca	Буһа, тағыр инең!	ba	grammar-or-spelling
+1c77b85c6be025f6d65300aada83700b0d6977b68c47743ec90b8e17170101c5	Ышын әйттеңме?	ba	grammar-or-spelling
+14c8c1fe631d823d0606061c04d19d8bf02b9324d59e949d6fe16591d5616d6d	Бынауҙы, - гигән була, - ташлама әле, Мәҙинә.	ba	grammar-or-spelling
+1b8cd3390a8c3758cec09747548c1a712139b8d8e4353adf4fd04b1c2ff30f12	Ут алмай ғына көттөләр уның ҡайтканын, ә ул ҡайтманы.	ba	grammar-or-spelling
+21b95a40a8d04df642c287a8ee841d7a643a51c8dd88e6152e15c0ace90adecf	- Шунан ул бер сабыйға, бер Ҡыҙрасовҡа караны: - Әйткәндәй булмаһын, бала һеҙгә оҡшап та тора!	ba	grammar-or-spelling
+2c4b72d3d0beb2c3ac9f4e5bf9bfebca207a23e4a7f4a8899e2f5596f16bd2e5	Әптеләхәтен ерләгәс, Мәҙинә үҙе лә тандарҙы ошо йыр, ошо илаһи һағыш менән ҡаршыланы.	ba	grammar-or-spelling
+2897f790d89e15f3cb5aa04aa28b904c68fc516cdd737651f9c3696ce07be854	Баҫыу осондағы кыуаҡты үттеме - ауыл.	ba	grammar-or-spelling
+2d33c289428989be9d90320acf680d0741bb24d610cedecb2869e24eb5314e6a	Ьинең һәр аҙымыңды алты күҙ күҙәтеп тора.	ba	grammar-or-spelling
+2873b61f5f1085a8674280785c0d3d30e22089374c0301aa796e01c4c96fc66a	Был донъяла ауыр яңғыҙ башка —	ba	grammar-or-spelling
+28d2e984ae41b827afcbc1921f8be2b71273e38a7044cf611c6e12f21c562b76	Хашим уның ҡарашын һүҙһеҙ анланы:	ba	grammar-or-spelling
+2d9caa0b5fb7c3d331fda0334cceafa9ec965bfa9f4e2df60f23ca7783ea960a	Минең дә бит... әсемдә йәнем бар!	ba	grammar-or-spelling
+2b92f7bee92793ea603423f7302401ccfcc2141bd4ce85e12ff5f0ec44666aee	Аршын да ғына аршын, ай, ак уҡа.	ba	grammar-or-spelling
+2b95049f34532bdc297579836de4c64d411b607df31ed5673da6bb5290cf0153	Ҡыҙыҡай оҙайлы ваҡыт шуның һөтөн әсергә тейеш.	ba	grammar-or-spelling
+2dd3f32f2f114e4237bbabebf5120b6bf9322d9bd59f4d688065dcc2ddba5182	Иртә тандан эшкә.	ba	grammar-or-spelling
+2d49b57ba5926934670f240bed1d4087f71f406e1320b073203488e86bbd0d6d	Мирхәйҙәровты ул тайсаһы эсендәге олатаһынан ҡашан кес кенә өйөндә китап тотоп ултырған хәлендә осратты.	ba	grammar-or-spelling
+2dd20d474250deb03deab5d94dd1fc59aa2b8a4d12771c47c427f247fb60d7bd	Ҡалаға барып еткәс, атанды табырбыҙ.	ba	grammar-or-spelling
+3690a5404b4b7496d09bde591bf506ce72f6923d0b5df5b9807d7d9e084cb6c2	Бүре йыҡһа, Эжмәғол муллаға хәйерҙәр бирер инем!	ba	grammar-or-spelling
+3a9eabdef54f665b59e1523d2dc8a829ce969eb31ad2e868182740e38c1ed066	Эйҙә-ә-ә, малҡай!	ba	grammar-or-spelling
+3da79364c367ae5fb5ca7dd7cb9ec09835fb3e50f8874e095ed365f19d8c0d06	Хашимға барып ҡарайыҡ, аты егеүҙе түге микән?..	ba	grammar-or-spelling
+3ddd5a652ada07e713ffa9f3b79a5e74c8abd65b4b3fdb88d6c2a24583519af2	Дәфтәр битенең, уртаһына ук Саяр семәрләп, матурлап «Сәләм хат» тигән һүҙҙе яҙып ҡуйған.	ba	grammar-or-spelling
+3fc971ef77ef98ba3d866e3126688b9954a3bfaafee5427ecf2196632a4c3c19	Ә ниңә үҙең бер ҙә кеймәнен?	ba	grammar-or-spelling
+3bae65601c5b3e8e6d86cc4675b749f450621b86b04cafe9c1630ce4ee65f57c	— Ҡунаҡтарҙың ҡулдарын йыуҙырҙыҡ, — тип Асатай менән Эптерәхман килеп аштарҙы алып киттеләр.	ba	grammar-or-spelling
+043def1a19e708c7a7d65afb488453aa33da0ad087ba1849f94b8c9f2fd3aded	Был минең һиңә бүлләгем булыр.	ba	grammar-or-spelling
+1115d5de1f67a9ca84cfcb75e791041a548fae37a96d71e8818ccf30fc324f78	Нәфсеңә баш була белергә кәрәк шул, юғиһә, иҫәрләнеп ҡалыуын да бар!	ba	grammar-or-spelling
+11658c5bacf4c3234e900b49fb407afa52edb9d444a1a55bfe585263be9f508b	Сураман антенналарын тегеләй-былай әйләндерел алды ла Ҡафтау бөркөтө Назариға ҡараны.	ba	grammar-or-spelling
+0d4eb9f4479b10b965b32de091096a1cffce0bbfd967fc19904d3b4b5759d72b	Һауҙың ҡәҙере шишмә ҡороғас беленер.	ba	grammar-or-spelling
+423f06cdd1b7570a32a5b9956a649643ad4f31d3cfb57dd84f671f08357ca3d5	Барсынбикә өләсәһе лә донъя мәшәҡәтенә сумманы, тормош ығы- зығыһынан һәр саҡ оҫтөн була белде.	ba	grammar-or-spelling
+3d0bbd658f39af6a84895ab5c5a3e91b8a95951ca55efa0329a4fc5607f06c48	Һайра, йырла, асылһын гөл, сәскә атһын алмағас.	ba	grammar-or-spelling
+1c5968e101cf63adab6cd038ae86a974395aa2d486b7f66dc3df4eac92b651f7	Ҡамсыға аг сыҙамаҫ	ba	grammar-or-spelling
+1ced3a0552ff3dc967fec2c0223fde7e1a1b50eeb7d1dcae1295674fcc875bba	Ҡайҙан һуң бил шым нескәлек?	ba	grammar-or-spelling
+1a42fe05617a3b80dfc517bf89b909b55a3361ff5fbe6c25769ab855d20b4b05	Эсһәң, буйыңа һендер.	ba	grammar-or-spelling
+0d4eb9f4479b10b965b32de091096a1cffce0bbfd967fc19904d3b4b5759d72b	Һауҙың ҡәҙере шишмә ҡороғас беленер.	ba	grammar-or-spelling
+1953634a4f5a51f4bd7afc195e80f104cac078a95b36c6db65943050747382c0	Хәлдән тайын йығылған бүре атҡа ҡурҡыныс түгел.	ba	grammar-or-spelling
+1e66b1af076528c5d59f7f2d6dc6f68d455d8e55519b4566b4690364a5e14e9f	Иҫендә тот: Фил — джунглиҙың бойороусы Хөкөмдары.	ba	grammar-or-spelling
+2022e566522e791432c1036b62f0d675196c2435e92acbf55e3af79ea3f0ba8f	Порошокты өс көнгә бер тапҡыр әсегеҙ	ba	grammar-or-spelling
+21cb28668c055e82e0e89054bab637b9aab8d03cfcdf7d47568c5e4a062b805d	Аяғын тартмаған ергә барма.	ba	grammar-or-spelling
+208066553ca91a06cafe11c13d852a079701d2eb0ac5e4533b30375eb295ddc7	Бамбук шырлығында Мауглиға тап булған дикобраз Икки: «Ҡырағай ямс кибеп бөтөп кенә бара», — тине.	ba	grammar-or-spelling
+1953634a4f5a51f4bd7afc195e80f104cac078a95b36c6db65943050747382c0	Хәлдән тайын йығылған бүре атҡа ҡурҡыныс түгел.	ba	grammar-or-spelling
+211bb4d041fc9832b1856944161c2e623b532daa5fe2343ab0b3293260c360f6	Барлыҡ ҡырмыҫҡаларҙың һаны биш миллион биш йөҙ ун биш мең биш йоҙ ун биш.	ba	grammar-or-spelling
+1e66b1af076528c5d59f7f2d6dc6f68d455d8e55519b4566b4690364a5e14e9f	Иҫендә тот: Фил — джунглиҙың бойороусы Хөкөмдары.	ba	grammar-or-spelling
+1c9e3d3f96860a344d5f667e9304bf8bb1c2a1c1cc50c8d18477e97d58d8078c	Әммә нәҙек билдәрзе был эштән Сураман ҡотҡарҙы.	ba	grammar-or-spelling
+1953634a4f5a51f4bd7afc195e80f104cac078a95b36c6db65943050747382c0	Хәлдән тайын йығылған бүре атҡа ҡурҡыныс түгел.	ba	grammar-or-spelling
+252fb80d4abbe88230364e7f2f29e4c5eadaa49e30e0fa36bcd5ff534db63a79	Үҙҙәренән өс мең тапкыр ҙурыраҡ йән эйәһен еңһендәр әле, нисек әйтмәҫһең!	ba	grammar-or-spelling
+237e7b5ad74d7c5b46dbb91521ffdcaab76ed95139add49db93475af45756d53	Һәр дәҡиғәт һайын мин яҡтыртҡсты һүндереп кире яғам.	ba	grammar-or-spelling
+16116cb2301e8c3aa83728c31cf78991b8907892529d7927470871c1b359ca4c	Көҙҙөң йәме көлгә менән.	ba	grammar-or-spelling
+12f8f1561c9b1c38e99eadd386149e5ccb486c016237f251b5dd4d67bd7afc54	Мейестең тартыуын кәйләгеҙ әле, зинһар	ba	grammar-or-spelling
+15cd5519d2d681a5b80434dd39fd6048d39d82040f4669ab51e92feb26f1e4b0	Филде, ҡаҙыҡтары һерәйеп торған аусылар соҡорона ана ҡолай, была ҡолай тигәндә, иҫкәртеп өлгөрә.	ba	grammar-or-spelling
+1845ad0593db51af36e3192038965b602be672d69b92bda7a30bb2eada169f01	Яҡшы ҡатын яман ирҙе морагына еткерер.	ba	grammar-or-spelling
+2a67adac8b46224443e1909bb088ad8c7902fe73aef9d71b1afe5518b34b5325	Мин унда диңгеҙ һыуы тиклем күп итеп әсәм.	ba	grammar-or-spelling
+22b955db2cb4977ae848e60545e4130feba60e63d1e5859d058b2f7773122ae4	Гәмһеҙлек күрһәтеп:	ba	grammar-or-spelling
+230fc57cbb1ade1336168287da128738bbe992010f8d5f6162b2ac30aa9344bb	Ул шулай йоҡоло-уяу килеш иҙән битенә һылашып күнме ятҡандыр, билдәһеҙ.	ba	grammar-or-spelling
+327cb82a7c7b720387c7c5b2ee7e1e68e7c2867684d2566ed9591d7d9cc93237	— Ду-у-ҫлык!.. һәйбәт тәҡдим...	ba	grammar-or-spelling
+33c9ab3fd8e6be1cf54a39ad56cb010d8a5cda5ad93fad507fb2f3d9597c3a36	Курҡаҡ кешенең йоҙроғо кеҫәһендә була.	ba	grammar-or-spelling
+367571a3764b451e164e962619388dd9fcedc64c8753df83845474b6e6a341ad	Минең шәхсән төнөм етте. һин беләһен, Хати...	ba	grammar-or-spelling
+2f133e1cc8f582c28388d5a6e59ee15e7c686878025dbe0c07c97756bf081ce5	Икенсе тапҡыр, үн бер йыл элек, миндә ревматизм өйәнәге булып алды.	ba	grammar-or-spelling
+367aab1895d9b3cdd7e1f360884230eb00a8de2b6b37bbb65ce2205236da32a8	Күңеле ҡаранын йөҙө ҡара.	ba	grammar-or-spelling
+3a40dc18dc5960621fc881910643376218aedab62e99abe03ebf254eae90a3ed	Ҡарауылсыға тән оҙон.	ba	grammar-or-spelling
+360b6589bd37fce46317347adf3ecf445ba5bdd1eb51f36997952a2803b7d6e6	— Әһә, Бһуртпорҙа минең ҡаҙыҡ тештәрем ҡыҙарҙы битәле!	ba	grammar-or-spelling
+444ef2b7b2bb5a5f1e062043805b25d027073f853a440513a7163728bff9c57c	Уларҙы хәсрәтләндермәгеҙ.	ba	grammar-or-spelling
+446709c8c7f42c8ac8384ba22a905d33ea82d6bc90c1c91e8f861741626d92cb	Эгтән һөйәк артмаҫ.	ba	grammar-or-spelling
+44ed4a2c4cd736b94fe83c6ca6a9e18dd7b7ec00476720db54d2279169f03405	«Класс» һүҙендә кисә хәреф?	ba	grammar-or-spelling
+40cae45d09dd81db7aeb9acde183b3e89a5c521a5f3479fe91ad5987c5c97541	Число	ba	different-language
+4632d19b6a4cc6088527b3434a70aa18a15bc0f29e7b3d5a3ffc1974fc8383cd	Барыһы ла ғәйепле.!лем язаһына тарттырылғандарҙың инеүен теләйем.	ba	grammar-or-spelling
+4632d19b6a4cc6088527b3434a70aa18a15bc0f29e7b3d5a3ffc1974fc8383cd	Барыһы ла ғәйепле.!лем язаһына тарттырылғандарҙың инеүен теләйем.	ba	grammar-or-spelling
+4b89b6c2dca43841f953eed3a95db7f19303c27b9b915cfa0486e6e6b193c0b9	Шунан одеялы менән ҡапланы, һауытты тотҡан көйө хижинанан сыҡҡас та кәртәләге һыйырҙар янына йүнәлде.	ba	grammar-or-spelling
+4db35c667bc1723abf943b3daca0cca781226d1106a1a0bb5149c915b3a1e12a	Иҙел- Яйыҡтыңағаһы	ba	grammar-or-spelling
+4dc287e30434262eeb5ea14dc20920178ab157d5a4ee5a6215a2f4284ce75dbf	Ул кон буйына тик йөрөнө	ba	grammar-or-spelling
+522867c221be0cfdb527b3ec9c88141633d8bba0800c2829ed495f85c661e9d9	Сөнки башҡалар минең урынға баҫасаҡ һәм мин алдашырға яртамайым.	ba	grammar-or-spelling
+52929808a217a2eb836ef3123187c30bc7b9056e86486a9f80de978aaf9883d0	Әгәр һин ашҡаҙанында бушлыҡ тойһаң, миңә кил дә күр — ышанырһың, дөрөҫтө һөйләйемме, юҡмы?	ba	grammar-or-spelling
+52f88f2af9ac393e37bbc10f14d9e91f4f912ec1fe5081ecf3c0bcd0cc85334b	Томшоҡтары менән мачандарҙы йыКтылар.	ba	grammar-or-spelling
+53756212cf5cc1d8c7aaf44c9b6028f7db2e2bcc81ed3b046e3a0918c29dd53a	БЫУАР ЙЫЛАН КААНЫҢ ҺУНАРЫ	ba	grammar-or-spelling
+55901e79e8a46be5fc96e45a01c2460ff098c4644525bc145b6b7275470a3fa9	Ярҙам итеүсмдең сәбәбе шул: һеләүһенгә үсем ҡанмаған.	ba	grammar-or-spelling
+565a0897b074ef376fbeddb3b7032763f167a132c5e44fb50d6cdb54c05fb877	Оҙаҡламай фекер алышырға янынан килермен.	ba	grammar-or-spelling
+413fd3c107a256bd8935547172402a592486b6ba31758da158909909d738fbf3	Ҡырҡ йыл ямғыр яуһа ла, шыма ташка һыу үтмәҫ.	ba	grammar-or-spelling
+5ac9f2e4380219a263ec01aa5f2fc37f2d67bff9428d74cc490410580e8579e6	Алла дигел бәдуан.	ba	different-language
+545fda1c35ee6ae22e653e6d075de625daaf732861a43c9ba2eac02259c9fca1	Ҡурҡам, беҙ көрәгенән артыҡ ултырҙыҡ, шикелле	ba	grammar-or-spelling
+6cfbe121fb4d3bd9f04688a11425449d948f6aaf433e7b54cab11a9e8be92cd7	Үрмәксе ауы күбәйһә, көҙ сыуаҡ, ҡыш һалҡын була.	ba	???? ??????
+5499260e136f978a35931dbcc29f7fdd90ec71b98f6ef7730af93f700b4046cf	Серәкәй менән ләпәк күбәйһә, аяҙға парта.	ba	grammar-or-spelling
+5955a9d07141720bfde5625bd4ce1b7be805ccc24583f6e2a5e0d6b55ef0634e	— Ә беҙ һин беләһендер тип уйлағайныҡ таһа, Каа...	ba	grammar-or-spelling
+56419dba3420c83ca33cc93d4b7e1292606bf341062e7c476157234c9fc14633	— Әмер үгәлер!	ba	grammar-or-spelling
+70f47e3c1f7dcf95e2bad66cb6453b8c0a593889193fff17124874160aa919ba	Үлгәндән һун тәүбә юҡ.	ba	grammar-or-spelling
+6f6eded3c7a373d6b01a69647f30089ffc3659305d43c0f77f1dafc8eefddf7c	Үҙеңдән астын табағын ялама.	ba	grammar-or-spelling
+70a99f8d251d12c62a636c5b76b40aa4de7c807a9b5568b38e998c84292cf0de	Улына башынан һыйпап кәңәш бир	ba	grammar-or-spelling
+6d40d1bdfc3b7ae85c5d648bbae52a526120d3288840cc2f1f3a75ca3bd633f6	Ниһайәт, йәмәғәт ҡазнаһы мәсьәләһе хәл ителәсәк.	ba	grammar-or-spelling
+6f839fe100ed94c9c8b4e012facddd82b3a86edfd0812a038520d76eced7612a	Һәр кемдең буйына карап тун бес.	ba	grammar-or-spelling
+73496356e5f978e11ac6662628420f22a36d73cf99d71f0f02a09a1ad8d309c4	Ҡымыҙ әсегеҙ!	ba	grammar-or-spelling
+747f5db974fd87a1626a1a0d192cdf038d08e180c6169de66cd329107414ba01	Юк, киреһенсә.	ba	grammar-or-spelling
+7524396e1bba52e2b4885683b633dbb6814e95547035c81bc840a22152f09911	Күп төкөрһә, күл булыр.	ba	grammar-or-spelling
+78a8b49c0d49fea97d5a6b1189cb4b841e54d7bd064a3baff3a440621409381d	Уй-фекеренде тиҙерәк әйт!	ba	grammar-or-spelling
+73ef394b34661d2e658500aeeaa9432d2746caef0cff37486122d046b55d4830	— Бһуртпор үҙәненән ҡасҡан кеүек, әйҙә, бындағы кешеләр ҙә тырым-тырағай таралышһын.	ba	grammar-or-spelling
+80b59e30df633e0da2f6d5dee70b4ccfd498505da32d99099638764ab663abd4	Әүлиә кеше еге ҡат ер аҫтындағы йылан көйшәгәнен ишетер.	ba	grammar-or-spelling
+882bacbd08189c6d9fa192a53773e0549ef145da6ea1b9b41affbeaca8849e48	Һәм миллион йылдар буйы бәрәстәр сәскәлрҙе ашайҙар бит инде.	ba	grammar-or-spelling
+8c9b4707233a126b4fba6716c72721eb31471692c4a50e8500e68f9746563ab0	Әт этлеген итә: бүрегә һыртын ҡабарта.	ba	grammar-or-spelling
+94ced12b8c4a8fa64c31c21bfc4abb9ef63860d4965cf7f7beea856e1d2fbdf3	Рәйлә әллә ни эшләне.	ba	????? ?????????? ????? 
+96ef71b2e223936dd4f2c620fb40cf88f7ec5a7d3785e5a2923a0fa513a3a21f	КҮҢЕЛ ЙЫЛЫЬЫ	ba	grammar-or-spelling
+9b6c5a6ef82075cf929512c65ca6d8590ade1880fc6bc817afd8c7b438892f80	Һеҙгә иң изге теләктәр генэ теләйем	ba	grammar-or-spelling
+9c6957df283e5ad06b88350cc5159d733877318b97f5e1dee2b4fedbc0023d4e	«Ярар»ҙын туны туҙмаҫ.	ba	grammar-or-spelling
+1e16c6a178ff9b7367e6ab298f1ce5b1852aa7a25f7a364efa185a3d14a46df4	Ун кон, ун төн үткәс, кем нимә уйлап тапҡан, шуны уртаҡлашабыҙ.	ba	grammar-or-spelling
+9b6816c5ad83cca0fb615f51f99c73f455b047df0cea4283c7a095701f782bf6	Һоҡланыуҙы писек белдерергә	ba	grammar-or-spelling
+98108041feb08e5eba1f0787e6479d876320941c9220640fcbc4ca46b5bee87c	Елдән тыуған Айгуған.	ba	grammar-or-spelling
+97f687d63dd6003a02c7c6a6bfa2899c7ac2a73146796fb0d5b52ce0f98f24fe	Рәхәт уларға, бер йән эйәһенән дә курҡмайҙар.	ba	grammar-or-spelling
+a03d2920b6dd45a81a6ddeaff84d1fbf53d35324fb7d44b403582a8f770e570a	Иән әрнегәндә, йәш көслө	ba	grammar-or-spelling
+a7c5bd1baf38d8ddb64bf0b6223e247cf95914825dac0f98ef857c284fd5052d	— Һин джунглиҙа йыраҡҡа китерһең, бәләкәс генә кешекәй.	ba	grammar-or-spelling
+a80e2fedb7c77ab3616252726625513fa6d22e2edd974364bcf2f4af7969dbb6	Ирҙең атын йо аты сығарыр, йә ҡатыны сығарыр.	ba	grammar-or-spelling
+ab89442d17237785d95430fc557a27cab26f236ed680de8c2f7d94d3a3a2f6d1	Ана һөтө менән кермәгән тапа һөтө менән кермәҫ.	ba	grammar-or-spelling
+bb6de5b73115315fd4c04ffeeee7aded63d6dc6ca395733aed4b12d683784810	Күрмәгәндең күрәһе кило, күргәндең ҡоҫҡоһо килә.	ba	grammar-or-spelling
+b7bc34ec4c991b41552a54d5cd754c1ae3500f9782dff582f305db4dffae157c	Тар ерго таяу булма.	ba	grammar-or-spelling
+bb6de5b73115315fd4c04ffeeee7aded63d6dc6ca395733aed4b12d683784810	Күрмәгәндең күрәһе кило, күргәндең ҡоҫҡоһо килә.	ba	grammar-or-spelling
+b7bc34ec4c991b41552a54d5cd754c1ae3500f9782dff582f305db4dffae157c	Тар ерго таяу булма.	ba	grammar-or-spelling
+b73800a88f5410566fa77b4fc597f259261289fc0ed18fba3d0d716930e98700	Наҙан кеше һуҡырҙан яман	ba	grammar-or-spelling
+bb57d95a6fc55c47e7c2a3bdc957766fbab7de747bb22ac940d52b9cfaa1d289	Урман бабай бер ситкәрәк китеп боҫто ла әлеге ят әҙәмдәрҙе көтә-куҙәтә башланы.	ba	grammar-or-spelling
+bb6de5b73115315fd4c04ffeeee7aded63d6dc6ca395733aed4b12d683784810	Күрмәгәндең күрәһе кило, күргәндең ҡоҫҡоһо килә.	ba	grammar-or-spelling
+bff0bd0af57259a309e532e8dd74f9740ecfbe74537702936b1a13b7c407f5d7	Был йырҙарҙы һарнағанда уға был хәҙерге йәйләүе байғош ояһы ғына.	ba	grammar-or-spelling
+bff0bd0af57259a309e532e8dd74f9740ecfbe74537702936b1a13b7c407f5d7	Был йырҙарҙы һарнағанда уға был хәҙерге йәйләүе байғош ояһы ғына.	ba	 ?????????? ??????? ???? ?
+c19f58f13371964a7dcfa1cec05190112175e110bf5db020d5826641ea72bfd3	Мин дә ултрыҙым, сөнки аяҡтарым тотмай китте.	ba	grammar-or-spelling
+c19f58f13371964a7dcfa1cec05190112175e110bf5db020d5826641ea72bfd3	Мин дә ултрыҙым, сөнки аяҡтарым тотмай китте.	ba	grammar-or-spelling
+bb6de5b73115315fd4c04ffeeee7aded63d6dc6ca395733aed4b12d683784810	Күрмәгәндең күрәһе кило, күргәндең ҡоҫҡоһо килә.	ba	grammar-or-spelling
+c3f991c2799f7d27db773728de8acb92e154e7cded32fe122a628f047050f4bb	Ҡунаҡ килһә, һый кило.	ba	grammar-or-spelling
+a4f4d47447dbd2e3e31879ad26935c4b6c9a60182867da7f51570e3fa4202ede	Мин бәхеттен ҡәҙерен беләсәкмен!	ba	grammar-or-spelling
+c679b9e7ae8a0935a2a43b860db3933bf1819ab1c202acaa4508448759064683	Йөз сусҡанан уртаса алты йөҙ сусҡа балаһы алынған.	ba	grammar-or-spelling
+c636a780f99150950107df803d970cd3b92707b6ad0cf566d582157a1f371b11	Үҙ күҙендәге бүрәнәне алып ҡуй.	ba	grammar-or-spelling
+c3f991c2799f7d27db773728de8acb92e154e7cded32fe122a628f047050f4bb	Ҡунаҡ килһә, һый кило.	ba	grammar-or-spelling
+c62826ae9049d21373580f5d921a45f66a80f0ce1ca8f6e1bb5477e4256197a8	Эшлекһеҙҙең көнө үгер.	ba	grammar-or-spelling
+b7695c0abd8a0f4f678168d85813dfbdd30baf79a09ac37abcebabd2282242a2	Илләштсреү илсенән, юлыҡтырыу яусынан.	ba	grammar-or-spelling
+c7f58948cf685c3a1ce694922834682af5cee962064501a6476b97a3ae0cabab	Эсен, тулы ут булһа ла, кеше алдында «уф» тимә.	ba	grammar-or-spelling
+b7695c0abd8a0f4f678168d85813dfbdd30baf79a09ac37abcebabd2282242a2	Илләштсреү илсенән, юлыҡтырыу яусынан.	ba	grammar-or-spelling
+c585c8c2d4d371b8e3097a5c2aaf21f7028131d94eaa9443fc84edbbd39e6ddd	Әт өрөп, егет йөрөп, ҡыҙ көлөп ҡартая.	ba	grammar-or-spelling
+c3f991c2799f7d27db773728de8acb92e154e7cded32fe122a628f047050f4bb	Ҡунаҡ килһә, һый кило.	ba	grammar-or-spelling
+c82e7b70ae5389f311e450b778015ec908670ef182775910e95e0c0def61eaa8	Мендәр тышын өйләндереү	ba	grammar-or-spelling
+c9da233aa5551a3bf908b1056a10b814dfcdea32a4e7d075fdeb0f700df56d44	Хө-Өсәйен менән Ҡай-Ҡайсарҙы хөкөмсө бүре бик итәғәтле ҡаршы алды.	ba	grammar-or-spelling
+c2695e1ec8aa6b339e1bd3e10da1943272eb78c8ba34027a986e29567a0e9e8e	В царство свободы дорогу	ba	different-language
+d369e2b5a894e996e54c9c35663bb81edda9b3e7a58af29e4fe5663128075c73	Боҙ ҡытыршы булын туңһа, иген уңыр.	ba	grammar-or-spelling
+cff2bec29867d88b718b340f7f2cd1971acadf0172944d046505e72df733723b	Хө-Өсәйен балтырған, күк көртмәле баҫыуҙарына ағыу һибәсәк.	ba	grammar-or-spelling
+d19df32d2fa4a6a7fa24027c4646d5ddc281ba6c6c3d0b6fe9dbcecf1288c167	— Я каждый день в цирк хожу!	ba	different-language
+d8a74ffb87a3cb1d3fe233e8bb561259edb06bf9f1b7e5d8df406679f5f60c7d	Мендең йөҙөн танығансы, бер кешенең исемен бел.	ba	grammar-or-spelling
+c7e3e7b252348264458b6b370881e90c34eb470a8eed515ead315b666348fdbf	Стәрлетамаҡ ҡалаһына барған автобустың туҡталышын өйрәтел ебәрегеҙ әле?	ba	grammar-or-spelling
+c7f58948cf685c3a1ce694922834682af5cee962064501a6476b97a3ae0cabab	Эсен, тулы ут булһа ла, кеше алдында «уф» тимә.	ba	grammar-or-spelling
+c775a0be464cb914bff84bd8557bd0f8d4dd8f28508973498c8217a894289a45	Тәүҙә Сураман, үҙенең яратҡан күнекмәһен, Йорәк башлылар иләүе көйөнә пыр туҙҙырып бейеп алды.	ba	grammar-or-spelling
+dd30baad98d9158dfd5af0f16c1e4776c246dcd22dc60a3799bc3cbc717cbbd3	Кон түгел, төн дә күрә алмай ҡалаһың хәҙер.	ba	grammar-or-spelling
+dd52e5799ec2ee9e680344f6523b3e557c247d3b84cc311e317b26b80bb1d1f7	Аяҡтары менән бысраталар ҙа шул бысраҡ һыуҙы әсәләр.	ba	grammar-or-spelling
+d38bff4a463e2d56a1389490317049f6dfc32499006ac8382d59f7f77c38805c	Йә үҙең, үҙен һуң Йомро баштарҙың ҡоролмаһының серен нисек белдең?	ba	grammar-or-spelling
+e0120dc8d5a6c89043ceec48abe77f6a734e4bd29b8ec6612b8265a8aadaa338	Ниндәйерге бит әле?	ba	grammar-or-spelling
+d92531b741bb190d1612cc45929bb235d1ccba945252156a471b07ddb134739f	Вайымһыҙ булыуың ғына ла һинең кеше икәненде раҫлай.	ba	grammar-or-spelling
+ea28e4b365af7ddf2e200dddd2bc108312f0023176e380fee5ca74da27d4f5f6	Өҫкә өлөшө бер генә йомроҡас ялтыр рубиндан ғибәрәт.	ba	grammar-or-spelling
+ea02af479fef5e85b0f005d988084dc271fe05105085fc3155b74a66a166b56f	Шулай ҙа һинән яңылыҡтар ташыуынды үтенәм.	ba	grammar-or-spelling
+ee34bcf864d523858697116c8b1929f6830835edeebc8a1a9e42ecf2214badc8	Әсәйгә баш әйегеҙ	ba	grammar-or-spelling
+f5e4968d322473b547e0437e4401caa7ab264721e446b15a2ba35f527e40f03d	Бәлки бешереңкерәп еткермәгәнһеңдер...	ba	grammar-or-spelling
+a29a9248caf2448fd8d2f808310435b868b84d080e407acbfa5849e3a407ac7b	Ышанысты писек белдерергә	ba	grammar-or-spelling
+ede51f465c9723b558cd6ccc1c8f4ba04079dfe67d92dd1f58b186179434191d	Алғанға алты ла аҙ, биргәнгә биш тә күн.	ba	grammar-or-spelling
+f0033ad71c69e88209afbdebce3a0c4842f08cd36cfabeea86c0573cd109f44e	Күтәрелгәнгә күк гә түбән.	ba	grammar-or-spelling
+0250df3b8039b6bb72cb9b97d6d0f6485ac85f933705b77ad8193a1bdc53b557	Эсәйең менән туғаныңды ла ҡыуандырайыҡ.	ba	grammar-or-spelling
+0319b1ae38382fd4f2ae7ec36f2cb94e073a83b5658dd403f04f820106988102	Кунаҡ тәүҙә өйҙө йәмләй	ba	grammar-or-spelling
+0377c35ab3d14f1556ae172d5e56e03231195c14b7f30d858ad9e092aa664f72	Ул тешен ҡыҫып түҙҙе, итте ҡулынан ыскындырманы.	ba	grammar-or-spelling
+07b44f17e4c5eaf4848374eafe38f2c5d64a3b01a8e469cd992b376ad126540b	Мең алтын ташын булғансы	ba	grammar-or-spelling
+0f1500129588ff2eb5ce749bd00e4f2d737dbdf3db1d6be225e56dd2d029baa1	Һеҙҙең яҡҡа йүгерә инем, күҙ кинәт сәнсеп ауыртырға тотондо ла кон шунда уҡ ҡараңғыланды.	ba	grammar-or-spelling
+021e8d3fa906af66bb9deaa42f32fc10ad9d8a113113a614b5e5a2012a5e86d1	Нәм ул йәнә ҡот осҡос хәлгә тап булған.	ba	grammar-or-spelling
+0dd90888836f541bbd8ae9fdd2f1b190059bd737ecb915b3264cc5c5de3a7a8e	Ә тегеләре нисектер моңһоу гына торалар.	ba	grammar-or-spelling
+0fbbd8a227ed5a19a0cea72f826f8d4c9461e7c3a62bb5e0f549fbe3b34d3653	Аҡназарҙы эҙләп, Сусаҡтау урманын ҡыҙыралыр.	ba	grammar-or-spelling
+14a927b014c49e4ad6184ec39ca4363881ecf4f2a5af9ad7f6afe432076cdd53	Бәпескә сағыу, тотоуы уңайлы булған шалтырауыҡтар бирегеҙ, уларҙы карауаты өҫтөнә әлегеҙ.	ba	grammar-or-spelling
+14a927b014c49e4ad6184ec39ca4363881ecf4f2a5af9ad7f6afe432076cdd53	Бәпескә сағыу, тотоуы уңайлы булған шалтырауыҡтар бирегеҙ, уларҙы карауаты өҫтөнә әлегеҙ.	ba	grammar-or-spelling
+1529d50aef916dfd7ac6beb79c5002b0da85f4d55a3e79c708fcce9796d21cbd	Юғалған ваҡыг табылмай.	ba	grammar-or-spelling
+17799f6e952a9e10c5ce70a142c1d6150839b1e3c9c8d5d50c0819ed0b39c376	Теленде бәйләп ҡуй ҙа, ҡулыңды эшкә ҡуш.	ba	grammar-or-spelling
+1a058a460799a0d73bfc326104a1b01cfccf7bceefc2d46d3d05a1ab84bc0e85	Уйлап ҡарағыҙ, ошо ваҡыт эсендә беҙ ер йөҙөндә күпме агасты һәләкәттән ҡотҡарғанбыҙ.	ba	grammar-or-spelling
+2683a8dca2000d3915f232996406f3aa518d8d415da041a91475dca6650d70a4	Аңлашыла ки, индустар төйәге гелән төрлө еҫтәр солғанышында була.	ba	grammar-or-spelling
+216d75e7b7ac1472ed2017b2919a2de7f9b91359133f317230e103c906d36e35	Ағастар һәм лианалар, Тһа фарманын иҫләп, эргәләренән үткәндә, бының арҡаһына тамға һалалар.	ba	grammar-or-spelling
+216d75e7b7ac1472ed2017b2919a2de7f9b91359133f317230e103c906d36e35	Ағастар һәм лианалар, Тһа фарманын иҫләп, эргәләренән үткәндә, бының арҡаһына тамға һалалар.	ba	different-language
+29d09614528f2f716c1a1b6641f769dd4a7d6fc0abf1824dc0833a71b6399e76	Ҡыҙырас эшсән төҫ менән этенең һәнәрен күрһәтергә тотондо.	ba	grammar-or-spelling
+2f2470906a096d3588639e92c20aa8f0615173feb041ed4935316fff1b345298	Мин аҙьграҡ серем итеп алдым, шикелле	ba	grammar-or-spelling
+29d09614528f2f716c1a1b6641f769dd4a7d6fc0abf1824dc0833a71b6399e76	Ҡыҙырас эшсән төҫ менән этенең һәнәрен күрһәтергә тотондо.	ba	grammar-or-spelling
+31ab77dff47643fb6be2212d03afaaa33bf859d5a09cf22587279c60e29738c2	Күҙәрем менән нимәлер булғанын һиҙәм	ba	grammar-or-spelling
+2f2470906a096d3588639e92c20aa8f0615173feb041ed4935316fff1b345298	Мин аҙьграҡ серем итеп алдым, шикелле	ba	grammar-or-spelling
+329081912f91173e472d1d7ccf0147f2a2684ef4a6ac9d0ec64ec8cac2ce06f3	Аҡыл, аҡылһыҙлыҡ; ан-белем, наҙанлыҡ	ba	grammar-or-spelling
+3433cb278c5f1ed68b0b7bf7d3571cde2f7dfbbb078c9b9de746903774d0049a	Эй рәхәтләнеп уйнаны бөгөн Ирмәк Нурғәле менән.	ba	grammar-or-spelling
+33c08c106c5ca22c670c4a4740b766996d62da1b74d0b5dc50ab2686296a52f2	Көсһөҙ кәрәк һындырыр.	ba	grammar-or-spelling
+38dd7203c392c9201a9653fe6620ebcca7eb194ba28eb72af7e8716abc031f8e	Этте хужаһы үлемгә ҡаршы этәрҙе, ләкин меҫкенен тәпәйҙәрен тарбайтып йығылмай ҡалды.	ba	grammar-or-spelling
+2f2470906a096d3588639e92c20aa8f0615173feb041ed4935316fff1b345298	Мин аҙьграҡ серем итеп алдым, шикелле	ba	grammar-or-spelling
+38dd7203c392c9201a9653fe6620ebcca7eb194ba28eb72af7e8716abc031f8e	Этте хужаһы үлемгә ҡаршы этәрҙе, ләкин меҫкенен тәпәйҙәрен тарбайтып йығылмай ҡалды.	ba	grammar-or-spelling
+3b082783ab83691275d5500d14fc044381e85a983265239cf4fee72b49e41fc4	ҒШЭ...	ba	grammar-or-spelling
+3c37c56897bd207de18ddcfb6da97f211736dba196ed5887a50988f0c1626c87	Һауалағы торнанан ҡулындағы сәпсек артыҡ.	ba	grammar-or-spelling
+38a69f56168fc4ac7205d3a8f8f47ab815007e81725076c9287dc095cd6d2efc	Етмәһә, аргтарынан ниндәйҙер ағыу ҙа һибеп ҡалдыралар икән.	ba	grammar-or-spelling
+3b93b11c73ddc95d94c786207b1a97d9d1f2ed354d58ced7088887d496f2a4df	Яҙын иген икмәгән әтәмбәйгәмоң булыр.	ba	grammar-or-spelling
+3a34e5a0c38c4d2316af87071b8a8743a1dd612e62c658bb7a9a2c0610342fac	Хәҙер Йәшел күҙ алабуғаны сөскөртөр өсон уны ҡытыҡларга кәрәк ине.	ba	grammar-or-spelling
+42527e8493d29e797a2d4f5d8c10742c4709dca1b151a1c47254787c5708571e	Ҙур таш өҫтөндә Йософ йомран менән Ҡарихә ҡарға көлошә-көлөшә һөйләшәләр.	ba	grammar-or-spelling
+43d17fe3bf6f2b70c3712c9b309fec4fa6fb00e51ad0766be2ec97169df173fd	Ул, йәйге йәшенле ямғыр кеүек, ҡул сабыуҙар мейән геүләй.	ba	grammar-or-spelling
+43e9ba71fe18807d239925622cbf18d37e76da03cb7ab51b966614acf1d04604	Шәйеңде үҙең эш, Раужа әпшәй!	ba	different-language
+4632d19b6a4cc6088527b3434a70aa18a15bc0f29e7b3d5a3ffc1974fc8383cd	Барыһы ла ғәйепле.!лем язаһына тарттырылғандарҙың инеүен теләйем.	ba	grammar-or-spelling
+4809e508ceb261e9e6844de2b796c7641b2108a0af1c6ba32fb3d65de2ab11c6	Әсәм ни хәлдә ята тип тә уйҙамайһың бит...	ba	different-language
+344efff288a58a535a981ec4780b7490bbe2332830965513c70408ab0eaf154c	Вот так!	ba	different-language
+3da79364c367ae5fb5ca7dd7cb9ec09835fb3e50f8874e095ed365f19d8c0d06	Хашимға барып ҡарайыҡ, аты егеүҙе түге микән?..	ba	grammar-or-spelling
+237e7b5ad74d7c5b46dbb91521ffdcaab76ed95139add49db93475af45756d53	Һәр дәҡиғәт һайын мин яҡтыртҡсты һүндереп кире яғам.	ba	grammar-or-spelling
+3cce0a23cca165fabfe23f746ab58adb46e3905bcbb5f1469f802ec374296c6e	Тырнаҡһыҙ бармак тыйнаҡһыҙ.	ba	grammar-or-spelling
+5172dfb7d2005511c9d5993afe8d7ab309746f4a01145f5d9313231933c90d4a	Әгәр ҙә Ихсанбай ошо уйҙары менән Мирхәйҙәровҡа барпа?.. һәй, аңлар тиһеңме уны...	ba	grammar-or-spelling
+5172dfb7d2005511c9d5993afe8d7ab309746f4a01145f5d9313231933c90d4a	Әгәр ҙә Ихсанбай ошо уйҙары менән Мирхәйҙәровҡа барпа?.. һәй, аңлар тиһеңме уны...	ba	grammar-or-spelling
+5499260e136f978a35931dbcc29f7fdd90ec71b98f6ef7730af93f700b4046cf	Серәкәй менән ләпәк күбәйһә, аяҙға парта.	ba	grammar-or-spelling
+54eaff3c494defab037303f35355919ce53a859e6ed3e3420bd74bf664a03443	Ололарҙар үҙенде	ba	grammar-or-spelling
+55901e79e8a46be5fc96e45a01c2460ff098c4644525bc145b6b7275470a3fa9	Ярҙам итеүсмдең сәбәбе шул: һеләүһенгә үсем ҡанмаған.	ba	grammar-or-spelling
+56d8b08c9260fcf16e173476b8821b97a122fb7d28f5ba39c7dcc5e95e2e0ca7	Ҡыҙрасов менән һөйләшкәндән һуң Гаяф кабинеты иҙәнен шағыр-шоғор килтереп аллы-артлы йөрөнө.	ba	grammar-or-spelling
+57505d37113f93a5d7c22fb440d2d9bf469c569802efc597fedbd2f0f1322ff5	Уларҙың икеһенең дә аҙыраҡ эҫтәре бушағандай булып, ҡысҡырышыуҙан туҡтанылар.	ba	grammar-or-spelling
+085759c1162fbc0a811fcfb64620013b3866bec9e729b205c13a9efb5442d6d7	Шашлык из баранины классический Эргәңдә баҫып торған инәйгә урын бир!	ba	different-language
+0017d4b4f22ad5cd96537f5e1b1bdca42f0009f6a62cbfdbadaab9ce9471c2c7	Халыҡтын күбеһе һаман бынан йөрөй.	ba	grammar-or-spelling
+0199023f91b0932d443bd468e967d36c30acb95be6dea29750cde8659d4d7b58	Уны айырам, һиңә әйләнәм!	ba	grammar-or-spelling
+0199023f91b0932d443bd468e967d36c30acb95be6dea29750cde8659d4d7b58	Уны айырам, һиңә әйләнәм!	ba	different-language
+0f30023008087c303c897535a62087559b1c220f945b28462c15c3deabef2c03	Ғалимды айырыуса башҡорт теленең төньяҡ-көнбайыш диалекты ҡыҙыҡһындара.	ba	grammar-or-spelling
+18a84fa419321007354f01f1e4d1b89eeea00b9d8e75f061af5e127ec636d641	Ошо рәхәтлектә, малай саҡтағыса, ергә ятып тәгәрәйһе, баҫыу буйлап югерге, шаярғы килә.	ba	grammar-or-spelling
+1a73b3adf5aaaba62762ab699ca9ef78ca131354f1faebd1b2c6784c8bd547b7	Ҡыҙым яныма югереп килде:	ba	grammar-or-spelling
+199203c80cfffc58f1fe380882f6528e91b4d3b28828c3bb8d9b8d1d518b261f	Ә бына беҙҙекеңдә, Түңәрәк яландыҡыңда, бер ҡырҡыу ғына тәм була.	ba	grammar-or-spelling
+1c61670942377c3b22f938bd739ab278f2bd8230ae68f45bd7cc896431e6308d	Белгестәр дәүләт клиникаларынан күпләп шәхси секторға ағылғанда, бында эшләүселәрҙе ниндәй ҡалас ашатып тоталар һуң?	ba	grammar-or-spelling
+19be592be0e0ca9aa7fa8d20d3fb32d7761bcd6dd83717e9aa5bc6ea3e01227b	Бөгөн киләһегеҙ?	ba	grammar-or-spelling
+1b45146b73876f6d0287339e69eeaa9960ca521bb39a9005301095b72b2046df	Бүлмәгеҙҙә әсегеҙ!	ba	grammar-or-spelling
+208c1d58bdda54e5cdaca194e5ae9439f30e8c53a28e1716ce019f8a0d1cc70a	Егерме гуғыҙ, Иркә.	ba	grammar-or-spelling
+229ba7f70777013d96879802e850e210c94441a0d6a9b912811cc895546603e2	Улар уртаһынан солтан, улын етәкләп, солтанбикә ултыраған тәхеткә ашыға.	ba	grammar-or-spelling
+211e276a434009ddeffa75cb6159382cc14576b261c8f869517d95fd3fb8f1b4	Хәҙер бар бит улар.	ba	different-language
+1b45146b73876f6d0287339e69eeaa9960ca521bb39a9005301095b72b2046df	Бүлмәгеҙҙә әсегеҙ!	ba	grammar-or-spelling
+237e7b5ad74d7c5b46dbb91521ffdcaab76ed95139add49db93475af45756d53	Һәр дәҡиғәт һайын мин яҡтыртҡсты һүндереп кире яғам.	ba	grammar-or-spelling
+2bc63902ea0f326f6754dd008efb23e490e940b428aa785325f07ebaca67e974	Ғимай өндәшмәй генә аяҡтарҙы килеп баҫты.	ba	grammar-or-spelling
+302411277c01137ef41980db4e5793653e1656bb57f4915359f5ad06537cb5f3	Тағы ла бер тапҡыр оло рәхмәт һинә, ҡотҡарыусым!	ba	grammar-or-spelling
+3281424db7b95c26916384c751f41c494f0a86cee2b68a2b5a93d1a2e6f8d6fb	Долгосрочная аренда	ba	different-language
+38a7a684e81fd43912ba74006516fcacdfca6ebe2ab5254225fab168a77d0169	Миңә оҡшарҙай егеттәр, күрәһең, әйләнеп бөткән.	ba	grammar-or-spelling
+3fb8188ad53b336ab3e0375ffc00b9afde7fb01ab8c0ae9a0b64842d3a47dd14	Президент Межбюджетные трансферты, поступающие из бюджета Республики Башкортостан	ba	different-language
+42bd522f28a5262336468eb0e750a3a4eedafea12bfdd70c7ebe8a8d6474b3a7	Умарта һөйәгегеҙ бушаҡ һеҙҙең!	ba	grammar-or-spelling
+43db4cc7f87a2380d6a1412c9fb65f69de9e9ccd44400b553e6cbda18cd492b4	Дүртенсе ҡатҡа меңгәнсе хәл бөттө.	ba	grammar-or-spelling
+461c50c0fe25a44d0a3489f2007f87a9144ced2cf4d08f013aed4316efb3280d	Йтте!	ba	grammar-or-spelling
+456f93e95db6398a83e4ecd181ed0b9f6fc92ae4d4219314d337f0d555fab858	Шул арала уға ҙөжүм итергә әҙерләнеп булмаҫмы ни?	ba	grammar-or-spelling
+4ae2e8c9c3d29459f28fbdf0517e621c31b93a8691dc4fe0d553dc5184ffc006	Был әлкәлә башҡорт теленең ҡулланылыу даирәһенең тар булыуы хаҡында бер генә факт килтерәйек.	ba	grammar-or-spelling
+4c97de4774cad2ec3b953a1469978003152a379e82c326348537ccb4caa746a1	Һиңә өйлән, тиһәм, һиңә әйләнәсәк.	ba	grammar-or-spelling
+4c33fe1051c3fa87b405310ac4fc892f9a0fc6d3734e1f4744eb3651c237bf0b	Ошондай байлыҡ эйәһе минең ҡыҙым Бәҙәргә әйләнергә лайыҡ түгелме ни?	ba	grammar-or-spelling
+587ae54eabcccaf6338d2ab609d3cc475804dc830169c019c3367c047900cd52	Әйләнергә йөрөйһөңмө, тинтәк?	ba	grammar-or-spelling
+5bcb7043f09b43fd18f9277b43d0bbffe7355062ff81f68b356d3cb73f81fcab	Тем более!	ba	different-language
+5fd3ec9a7779ab81dab2ed11b9591a4ba2607698d97834bd5db44093245c58f1	Утвердить основные характеристики бюджета Республики рублей.	ba	different-language
+5f2309c65d29c51786285aee0f2d4a316d162bdbf8a09593785ade0e03229eed	Дамы приглашают кавалеров!	ba	different-language
+648df80be61c1092ba6709cfc02285ad1188bca148be41e7e6b747527c537ae1	...Ҡайһы саҡта, ябай һорауға ла Көҙгө моңдар	ba	grammar-or-spelling
+639c4d069cf30f0b08aa99da35fa50cda3d5e969bc5172666560fdd74310b31e	Бер кем дә соҡор янына килмәне, ҡотҡарырға ла, хөрөләргә лә.	ba	grammar-or-spelling
+3eb9fdaf29ffe6207f8c9a90ffc61aa7a7ed10f6e9abfdb3b5b6a6db000172bc	Утвердить дополнительные нормативы отчислений в бюджеты муниципальных районов и городских округов Республики Башкортостан	ba	different-language
+5cf7cda49c52ed225c1044816bbbafdde6b98efe5848b3dcc2794a3625d575e1	«, организация» в соответствующем числе и падеже;	ba	different-language
+6339b585bc0bcf608c3899885be6bed5fe5de4bda15e04592d0dbc9034e5f1a5	Утвердить ведомственную структуру расходов бюджета Фонда:	ba	different-language
+69be96f1ac963594dea2b3f0419bbe58c17ea2ff09abcef936a04867944bbb71	— Һыйыр булһаң эрәхәт, үлән ашайһың, асыҡһаң, баҡыраһың, тағы бесән һалалар.	ba	grammar-or-spelling
+83089c4250f022210b192d1821a123b4b6a8148834b440f8def79c2e9981f174	Цавт танэм...	ba	different-language
+a27d5ea873d1d72241e0122d4248c7e0ccf8cc7d1841abf8e9712e34452608a5	Ҡыҫкаһы, китмәне!	ba	grammar-or-spelling
+a39678edc4d7592cbe391fa72fb4fbb76e346f15c573ac5573cc4d6f9245f591	Миңә ауыртманы ла, ҡаршылашманым да, бары аҡырҙым ғына.	ba	grammar-or-spelling
+a38abc2ade4bef70d735199916f7f55cd4769d4d238cce6ae319da1805a2802e	Ярҙағы кәмәләр караптан ундараҡ ине.	ba	grammar-or-spelling
+a75bacab5a04fe99d092eaa102d317d8ae5278386f201131267377624f0a126e	Утвердить:	ba	different-language
+aeca3d5b45c4375735bcc6de3e820c909cee865d89cf88e12243fafa509c3bd1	Установить норматив расходов на ведение дела страховым	ba	different-language
+abaeaa475d211640fa92c764777da3b3562949f131b912fa3fe889b865397534	Джон Трелони.	ba	different-language
+b04af1f737117f672b0336668c2288a019f8ced4c8c5a52904871fe47c1814a4	Пролог	ba	different-language
+b13562d26cb6fd8eb54a282b790910e4c0d45cff28e2bae7d287e04036d83a5b	Башҡаса әҙең булмаһын!	ba	grammar-or-spelling
+b32303ac337a3ae120950cc8665b23da1d9e9ed420f5c8072359947b85da8f95	Здесь совсем рядом покоится и моя Патимат...	ba	different-language
+b442d531f554296c7c0af44e28b8a8c0440dea60153226fb46eb10d3e838f269	Ул бик асыулы ине, әсе итеп ҙыҙғырып ебәрҙе, йөрәк жыу итеп китте.	ba	grammar-or-spelling
+b4a6fdba0cf35dcc2abb164c052b38749b6eb2d39992dc3e895e1284270f1672	Һуңынан Андреас Классен журналистар алдында үҙенең тәьҫораттары менән уртаҡлашты.	ba	difficult-pronounce
+b4b27e5d28a5cd028c7e7cf29fb8846e502b4009194ae9b25b1407f0c8dd6b11	Унда кәрәк һабы һәм йәшник таҡталары күренә.	ba	grammar-or-spelling
+b4b27e5d28a5cd028c7e7cf29fb8846e502b4009194ae9b25b1407f0c8dd6b11	Унда кәрәк һабы һәм йәшник таҡталары күренә.	ba	grammar-or-spelling
+c132e8877db895971f2b8ec5225701b8176a86b72487cc27150212e0ebfb2ee2	Ул, бөгә ғорурлығы булған чапай мыйығын борғолап, ихлас келә генә.	ba	grammar-or-spelling
+c4b77d490bf474d312d5c0dddc00c9f3e852df184b74cd9b021c921bf9e942a5	Тик әсәһе әбейҙе йәлләгән, шуға күрә әйберҙәрен алын барышырға ҡушҡан.	ba	grammar-or-spelling
+c5d8676e157d118cbf6ca6ba17458805228211f33b52a0eed4173c32f2db1b39	Улымдың төҫө итен кенә тотам үҙен.	ba	grammar-or-spelling
+c6cdec21507619b00d747fd309011c9a41f1c97b84d1107664b356c42e58da3e	Холостой.	ba	different-language
+c76e55afa0dea7b2eea5a3aac7fcf70bbf74a7f6b584bfd8a3140ca187fedecf	Спонсор...	ba	different-language
+c81317fe7cbc3dd3811e7ed44a40150e89342d14af519caabdf77b38109d2254	В процессе оформления договора следует уточнить, является ли владелец квартиры ее собственником.	ba	different-language
+c987837908e3a7fd3fc926ffa06c3f43c3aed7fdc2441ca446ac49188e2fc014	Ниңә әсәһегеҙ, ниңә айырылышаһығыҙ?	ba	grammar-or-spelling
+cbf56b20bbb41326a94acdb7aa7e28282ca4e556d067e34b2f1f70cb5b61943b	Ошо һүҙҙәрҙе әйткәндән һун, капитандың башы һәленеп төштө, һәм ул йән бирҙе.	ba	grammar-or-spelling
+ccf279fc58a893b9375a3607885389e6e7f280574e0947c8ec0b9f9a0f69f579	Тауыш шығарып, жырлап бүләк жыялар.	ba	different-language
+cea2765598d20bc3a0eb79e938096bcfa1ed3772163d20e52f5946f0a873eb91	Матур хат яҙыусыларҙың барыһына ла ышанырға ярамай.	ba	offensive-language
+cea2765598d20bc3a0eb79e938096bcfa1ed3772163d20e52f5946f0a873eb91	Матур хат яҙыусыларҙың барыһына ла ышанырға ярамай.	ba	grammar-or-spelling
+cea2765598d20bc3a0eb79e938096bcfa1ed3772163d20e52f5946f0a873eb91	Матур хат яҙыусыларҙың барыһына ла ышанырға ярамай.	ba	different-language
+cea2765598d20bc3a0eb79e938096bcfa1ed3772163d20e52f5946f0a873eb91	Матур хат яҙыусыларҙың барыһына ла ышанырға ярамай.	ba	difficult-pronounce
+d0af002d1fbe3b60616c2f230607591bf9d3050df8ab386eb6d803f3f6e2e6c6	Былай ҙа ҡыҫҡа ғүмерҙе ситлектә үткәреүҙән ҙурыраҡ бәхетһеҙлектең булыуы мөмкинме пи!	ba	grammar-or-spelling
+d1f089a71c7f2963141da68b85b46b38d1bc1754b7783ef0b9db1c5b1f1f9e24	Мин әлегә аҡылдан шашмағам.	ba	grammar-or-spelling
+d14c6fdabcde17927d152f8a547651620fa6799c709e828570a679b10f3bb10f	Иөҙ бала!	ba	grammar-or-spelling
+d111733902982dae51953a46e8ca1cb98dec25e9a4e9a6ef0479b761c1ce4739	Беҙ Сания менән бер-беребеҙҙе яратабыҙ, һәм әйләнер өсөн һеҙҙең фатиханы һорайбыҙ.	ba	grammar-or-spelling
+d1f089a71c7f2963141da68b85b46b38d1bc1754b7783ef0b9db1c5b1f1f9e24	Мин әлегә аҡылдан шашмағам.	ba	grammar-or-spelling
+d32ba55a44e914c8786e16d2715744f3011905d3ed97bb79a2732cd4beb72f8b	Алкаголиктың әсеүен ташлатып булмай, тиҙәр.	ba	grammar-or-spelling
+d32ba55a44e914c8786e16d2715744f3011905d3ed97bb79a2732cd4beb72f8b	Алкаголиктың әсеүен ташлатып булмай, тиҙәр.	ba	grammar-or-spelling
+d533d21b39321837a284e86d2abaf38bea0d28ac554fb8fc2a409fd8bedf282f	Улар өсөн виноград, ҡыҙыл төҫтәге еләк-емеш, айырыуса цитрус емештәре үтә файҙалы.	ba	offensive-language
+d533d21b39321837a284e86d2abaf38bea0d28ac554fb8fc2a409fd8bedf282f	Улар өсөн виноград, ҡыҙыл төҫтәге еләк-емеш, айырыуса цитрус емештәре үтә файҙалы.	ba	grammar-or-spelling
+d533d21b39321837a284e86d2abaf38bea0d28ac554fb8fc2a409fd8bedf282f	Улар өсөн виноград, ҡыҙыл төҫтәге еләк-емеш, айырыуса цитрус емештәре үтә файҙалы.	ba	different-language
+d5af8024faaf9e2fed621c9fdab2335a9aef476204cc4bf986d0070730c50918	Ғирфан, кейемдәремде әлеш, бармағым ауырта бит.	ba	grammar-or-spelling
+d111733902982dae51953a46e8ca1cb98dec25e9a4e9a6ef0479b761c1ce4739	Беҙ Сания менән бер-беребеҙҙе яратабыҙ, һәм әйләнер өсөн һеҙҙең фатиханы һорайбыҙ.	ba	grammar-or-spelling
+d5f64a5ef83cd9aef8fd681b8f73e268ddf46a0a1b157e6919c3e6312d884e98	Фәнилдең күңелен ул, ташҡа өйләнгәндер, тип уйлай торғайны.	ba	grammar-or-spelling
+d5b5d3dc82b3002b7da8a4108f4808c8acd407b4b6b695606d435daa96552d56	ЧАСТЬ ПЕРВАЯ	ba	different-language
+d85e6d3e4d508843645f3ea24f55fefab66257a8bb65f596f63f552ec79f5292	Бөгөн иһә баларының балалары ла атай-әсәй булып бөткән.	ba	grammar-or-spelling
+dcce8a6dc533c994125f44e1c20840b2b3c8772bfd30cde54b736dcf45b49ec5	Магазиидә ике ағай сәскәләр һайлай.	ba	grammar-or-spelling
+e03419a3241dee96798e311b140a46df18fc082bf14eea26a5ec0174bd3b89f3	Таҡталар менән кәпләнгән килеш йыланды көтә башлай.	ba	grammar-or-spelling
+e0f3b397dfce96fc6bd3b0b39caf6928851e58c7d002b5ba0132439618e61650	Икенсенән, башҡорт мәктәбендә уҡытыу туган тел үҙенсәлектәренә таянып алып барыла.	ba	grammar-or-spelling
+decf8a58deeb664010b50598663416f304ef9fb3ecba0957257140539e2a467a	Ҡолак!	ba	grammar-or-spelling
+e41df9ec63071e0c395a34d67dd389c9e4e92cc083582e67ef99f9617b92aff4	Камзулдарҙы һалып ташланыҡ, күлдәктәрҙең иҙеүҙәрен сисеп, ендәрҙе һыҙғандыҡ.	ba	grammar-or-spelling
+e4956f65b28797d1488c2d38159178d8635befc75a6ecc5e40c999efa5d61544	Әҙең булмаһын бында!	ba	grammar-or-spelling
+ded5e74828ccbf352c6a56512418325b8654420e690deb203f7bf7c5bc31aa67	Өҫөгөҙҙөң дә ҡарарҙарын раҫлатабыҙ!	ba	grammar-or-spelling
+e71e8cfa70a384d2c9d7d4ca3b3e82d80ffcfb9d4a933a281228bc7e3a533c2d	Сос егет икәненде беренсе күреүҙән үк һиҙгәйнем, ә хәҙер батыр булыуынды ла күрһәттең.	ba	grammar-or-spelling
+e73d43311e0867b17d282aa6cef0d2e374fc83568f7230fbd9faebad25a0b8df	Бит беҙ араҡыны әсәбеҙ, ә ул беҙҙең аҡылды эсә.	ba	grammar-or-spelling
+eab8e6f0f60891cbb7f1fe81ab6e959c7132bad5f0a83fb119e079bdf405a430	Әсегеҙ!	ba	grammar-or-spelling
+e96ac407527e6e5de990b80c7a116d3d52151eca1853a804d5d53762dd6fa719	Һеҙ генә ул тыштан ялтырап тораһығыҙ, ә әсегеҙ тулы буҡ!	ba	grammar-or-spelling
+e91aaa80cb1f96492276b5094193a0d0ca7b93c24c4a1560bb6711ef856c06e8	Тик шуны бел: мни йәшәүгә инанам.	ba	??? ??????? ??? ???????
+eabaae3d4f269c718a5e09d52feafa6c0bf0e5d34a6480d66ade6786cc6c1390	Тойғоларым яңырған һайын, ул бик матур бер йырга әүерелә барҙы.	ba	grammar-or-spelling
+eb4e6d9768d627c3d625c761e8dcd190ee0193e085fa1348b3d7d051e541a3ca	Тартынма, һыйлағанда һыу ҙа әсәләр.	ba	grammar-or-spelling
+e91aaa80cb1f96492276b5094193a0d0ca7b93c24c4a1560bb6711ef856c06e8	Тик шуны бел: мни йәшәүгә инанам.	ba	grammar-or-spelling
+e926c42ce581e7c90359b714eff743a4ba5f32877d74dafbc390763eb05a637a	Бына бер саҡ кәрәк ҡаты нәмәгә төртөлә.	ba	grammar-or-spelling
+ee5673c8e0713cdadb8bc9b7b694ef80a177f1516c2b0ca25569f8a778f60406	Бынан сыҡҡас, ой һатып алам да шунда күсәм.	ba	grammar-or-spelling
+ed687c3b9e519db421ea640181dd52934285409aea4b11bff66cad44d4edc936	Хайһығыҙ миңә ҡаршы сығырға теләй?	ba	grammar-or-spelling
+f1fd57c6f85e3857b569a7722ff26b34e8270b5f7a8229053939120a0256b557	Основными препаратами, которыми заведует Ортодонтия являются зубные пластинки, а также брекет - системы.	ba	different-language
+f28d5fe998649c7dfb721f05452de93a438a664e2f11c4e6d316d1a6cceb0f4d	Шунан һуң бер кемде лә яҡын күрә алманым, шул тип яңғыҙ ҡартайҙым.	ba	grammar-or-spelling
+efaa8314856914f81a813887dcf91dd89968686606048ce43703d2fbeac849e0	Ҡурҡтыммы шулай, әсемдә нимәлер өҙөлдө.	ba	grammar-or-spelling
+efc7d19bdd1b32e29cd1863a859a80b170d0b497e9f0782e851f5ccad8f3258b	Насипты хеҙмәт бирмәй, бер ук тыйылсы.	ba	grammar-or-spelling
+efaa8314856914f81a813887dcf91dd89968686606048ce43703d2fbeac849e0	Ҡурҡтыммы шулай, әсемдә нимәлер өҙөлдө.	ba	grammar-or-spelling
+f3e8d5bf9b7d8fd639c2848dd8253910c34015c0f20727f0a8092bf437ea60f6	Эйе, ул унда үҙенең «сирең» төҙәтә ине.	ba	grammar-or-spelling
+f5afa9ff3375755e6c3baf7c929bec16d509362dbc0f800bb73b5ac1771bd4a1	Шул саҡ ҡарт ҙур балығынан бер нәмә лә ҡалмағанын анланы.	ba	grammar-or-spelling
+f4265b4fe63057ae622aa96d3a2b7786ed27125ffb3943e3261965da48a82fa7	Тһир тыныслана төштө:	ba	grammar-or-spelling
+f365e48503836500a5e922184689730e0592eeb7b2e084a7a8e1339bcd095670	Тәүҙә мин уны хатта һин тип уйлан, исемеңде әйтә яҙҙым.	ba	grammar-or-spelling
+f71b8d74d854edbf0c12b2db7adb99a4b11e4b04d7b8b01f6f50174448749935	Куропатки!	ba	different-language
+f9da04856edcbe99e9a52f4b367b9c3c7f7c91d4e052be70ffab26fbba8698b3	Дик, кил әле бында, теленде күрһәт.	ba	grammar-or-spelling
+fa35d453926ac5181e2c6ff658288159edd626bf30343d7c99a9ab5b8f613987	Э бының өсөн, әлбиттә, бер кешенең ғүмере әҙ.	ba	grammar-or-spelling
+ff1733a9cf942946301a13090b5ac15972a568e9439b0fa81a2e7180e2ad6804	Ҡоткар, тим.	ba	grammar-or-spelling
+ffc9f3219e5cff87088a8d7befa0f8cc7e3bfd4f3bcb4a18a3628e3dffdc0d35	Алыҫ та түгел урман шишмәҙе сылтырап ағып ята.	ba	grammar-or-spelling
+efaa8314856914f81a813887dcf91dd89968686606048ce43703d2fbeac849e0	Ҡурҡтыммы шулай, әсемдә нимәлер өҙөлдө.	ba	grammar-or-spelling
+f365e48503836500a5e922184689730e0592eeb7b2e084a7a8e1339bcd095670	Тәүҙә мин уны хатта һин тип уйлан, исемеңде әйтә яҙҙым.	ba	grammar-or-spelling
+00c38cc809b0bfe001a4ea116128b3e63642a8b08c94ceca23b928588688cb70	Ул гөп итеп калды.	ba	grammar-or-spelling
+057c737ddb9929e68f713c0f2905d74f9f30c20f91f5d2adb8ad24c47578e81e	Зәйтүнә сыга.	ba	grammar-or-spelling
+072697b8df7fd07ec27c72a76a4296691ba14def5d3a2b9ee029920b5d5c9d58	Ни өсөн шулай әйтелгәнен ныклы аңланылар.	ba	grammar-or-spelling
+0672077b40056f6efc6a0a164618712ac90b0cd0a5068268ba25e4d7080b1eb5	Тап шул сакта район үҙәгенән бер етәксе иптәштең килеүен, уны күрергә теләүен әйттеләр.	ba	grammar-or-spelling
+06ac4ab1984e2ed2ca0d6a95e55f7d71eb302d9c336fd0799cceb339e9a52946	Дядя Ваня дурачок.	ba	different-language
+0c3dfaf2a3d875fb463d7a5b0474a5f0aabd2cf1203ad129ec2019afb2ac7e5a	Шунда күргәнһегеҙҙер.	ba	grammar-or-spelling
+0b3c503353aafc3f03233646515b277043110bb8a79ef3c366bfa60f4e849e15	М-м...	ba	offensive-language
+0b3c503353aafc3f03233646515b277043110bb8a79ef3c366bfa60f4e849e15	М-м...	ba	different-language
+0b3c503353aafc3f03233646515b277043110bb8a79ef3c366bfa60f4e849e15	М-м...	ba	difficult-pronounce
+160455a5846bade669f0176f9a7b1ca17f2a9fa3e58aced9c88a36fc0b43e73b	Отдайте в детский дом.	ba	different-language
